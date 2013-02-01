@@ -1,0 +1,2790 @@
+[submodule "a2jmidid"]
+	path = a2jmidid
+	url = git://github.com/freddix/a2jmidid.git
+[submodule "accountsservice"]
+	path = accountsservice
+	url = git://github.com/freddix/accountsservice.git
+[submodule "acl"]
+	path = acl
+	url = git://github.com/freddix/acl.git
+[submodule "adobe-flash"]
+	path = adobe-flash
+	url = git://github.com/freddix/adobe-flash.git
+[submodule "alsa-lib"]
+	path = alsa-lib
+	url = git://github.com/freddix/alsa-lib.git
+[submodule "alsa-plugins"]
+	path = alsa-plugins
+	url = git://github.com/freddix/alsa-plugins.git
+[submodule "alsa-utils"]
+	path = alsa-utils
+	url = git://github.com/freddix/alsa-utils.git
+[submodule "amSynth"]
+	path = amSynth
+	url = git://github.com/freddix/amSynth.git
+[submodule "apg"]
+	path = apg
+	url = git://github.com/freddix/apg.git
+[submodule "archivemail"]
+	path = archivemail
+	url = git://github.com/freddix/archivemail.git
+[submodule "ardour"]
+	path = ardour
+	url = git://github.com/freddix/ardour.git
+[submodule "arduide"]
+	path = arduide
+	url = git://github.com/freddix/arduide.git
+[submodule "argyllcms"]
+	path = argyllcms
+	url = git://github.com/freddix/argyllcms.git
+[submodule "asciidoc"]
+	path = asciidoc
+	url = git://github.com/freddix/asciidoc.git
+[submodule "atk"]
+	path = atk
+	url = git://github.com/freddix/atk.git
+[submodule "atkmm"]
+	path = atkmm
+	url = git://github.com/freddix/atkmm.git
+[submodule "at-spi2-atk"]
+	path = at-spi2-atk
+	url = git://github.com/freddix/at-spi2-atk.git
+[submodule "at-spi2-core"]
+	path = at-spi2-core
+	url = git://github.com/freddix/at-spi2-core.git
+[submodule "attr"]
+	path = attr
+	url = git://github.com/freddix/attr.git
+[submodule "aubio"]
+	path = aubio
+	url = git://github.com/freddix/aubio.git
+[submodule "audacious"]
+	path = audacious
+	url = git://github.com/freddix/audacious.git
+[submodule "audacious-plugins"]
+	path = audacious-plugins
+	url = git://github.com/freddix/audacious-plugins.git
+[submodule "audit"]
+	path = audit
+	url = git://github.com/freddix/audit.git
+[submodule "autoconf"]
+	path = autoconf
+	url = git://github.com/freddix/autoconf.git
+[submodule "automake"]
+	path = automake
+	url = git://github.com/freddix/automake.git
+[submodule "avahi"]
+	path = avahi
+	url = git://github.com/freddix/avahi.git
+[submodule "avrdude"]
+	path = avrdude
+	url = git://github.com/freddix/avrdude.git
+[submodule "babl"]
+	path = babl
+	url = git://github.com/freddix/babl.git
+[submodule "baobab"]
+	path = baobab
+	url = git://github.com/freddix/baobab.git
+[submodule "bash"]
+	path = bash
+	url = git://github.com/freddix/bash.git
+[submodule "bc"]
+	path = bc
+	url = git://github.com/freddix/bc.git
+[submodule "beecrypt"]
+	path = beecrypt
+	url = git://github.com/freddix/beecrypt.git
+[submodule "binutils"]
+	path = binutils
+	url = git://github.com/freddix/binutils.git
+[submodule "bison"]
+	path = bison
+	url = git://github.com/freddix/bison.git
+[submodule "blender"]
+	path = blender
+	url = git://github.com/freddix/blender.git
+[submodule "bluez"]
+	path = bluez
+	url = git://github.com/freddix/bluez.git
+[submodule "boost"]
+	path = boost
+	url = git://github.com/freddix/boost.git
+[submodule "bootchart"]
+	path = bootchart
+	url = git://github.com/freddix/bootchart.git
+[submodule "brasero"]
+	path = brasero
+	url = git://github.com/freddix/brasero.git
+[submodule "busybox"]
+	path = busybox
+	url = git://github.com/freddix/busybox.git
+[submodule "bzip2"]
+	path = bzip2
+	url = git://github.com/freddix/bzip2.git
+[submodule "ca-certificates"]
+	path = ca-certificates
+	url = git://github.com/freddix/ca-certificates.git
+[submodule "cairo"]
+	path = cairo
+	url = git://github.com/freddix/cairo.git
+[submodule "cairomm"]
+	path = cairomm
+	url = git://github.com/freddix/cairomm.git
+[submodule "calf-plugins"]
+	path = calf-plugins
+	url = git://github.com/freddix/calf-plugins.git
+[submodule "caribou"]
+	path = caribou
+	url = git://github.com/freddix/caribou.git
+[submodule "catfish"]
+	path = catfish
+	url = git://github.com/freddix/catfish.git
+[submodule "cdparanoia-III"]
+	path = cdparanoia-III
+	url = git://github.com/freddix/cdparanoia-III.git
+[submodule "cdrdao"]
+	path = cdrdao
+	url = git://github.com/freddix/cdrdao.git
+[submodule "cdrkit"]
+	path = cdrkit
+	url = git://github.com/freddix/cdrkit.git
+[submodule "celestia"]
+	path = celestia
+	url = git://github.com/freddix/celestia.git
+[submodule "celt"]
+	path = celt
+	url = git://github.com/freddix/celt.git
+[submodule "check"]
+	path = check
+	url = git://github.com/freddix/check.git
+[submodule "cheese"]
+	path = cheese
+	url = git://github.com/freddix/cheese.git
+[submodule "chrony"]
+	path = chrony
+	url = git://github.com/freddix/chrony.git
+[submodule "chrpath"]
+	path = chrpath
+	url = git://github.com/freddix/chrpath.git
+[submodule "cifs-utils"]
+	path = cifs-utils
+	url = git://github.com/freddix/cifs-utils.git
+[submodule "clthreads"]
+	path = clthreads
+	url = git://github.com/freddix/clthreads.git
+[submodule "clutter"]
+	path = clutter
+	url = git://github.com/freddix/clutter.git
+[submodule "clutter-gst"]
+	path = clutter-gst
+	url = git://github.com/freddix/clutter-gst.git
+[submodule "clutter-gtk"]
+	path = clutter-gtk
+	url = git://github.com/freddix/clutter-gtk.git
+[submodule "clxclient"]
+	path = clxclient
+	url = git://github.com/freddix/clxclient.git
+[submodule "cmake"]
+	path = cmake
+	url = git://github.com/freddix/cmake.git
+[submodule "cogl"]
+	path = cogl
+	url = git://github.com/freddix/cogl.git
+[submodule "colord"]
+	path = colord
+	url = git://github.com/freddix/colord.git
+[submodule "colord-gtk"]
+	path = colord-gtk
+	url = git://github.com/freddix/colord-gtk.git
+[submodule "connman"]
+	path = connman
+	url = git://github.com/freddix/connman.git
+[submodule "core"]
+	path = core
+	url = git://github.com/freddix/core.git
+[submodule "coreutils"]
+	path = coreutils
+	url = git://github.com/freddix/coreutils.git
+[submodule "cpio"]
+	path = cpio
+	url = git://github.com/freddix/cpio.git
+[submodule "cppunit"]
+	path = cppunit
+	url = git://github.com/freddix/cppunit.git
+[submodule "cracklib"]
+	path = cracklib
+	url = git://github.com/freddix/cracklib.git
+[submodule "crda"]
+	path = crda
+	url = git://github.com/freddix/crda.git
+[submodule "cronie"]
+	path = cronie
+	url = git://github.com/freddix/cronie.git
+[submodule "cross_avr_binutils"]
+	path = cross_avr_binutils
+	url = git://github.com/freddix/cross_avr_binutils.git
+[submodule "cross_avr_gcc"]
+	path = cross_avr_gcc
+	url = git://github.com/freddix/cross_avr_gcc.git
+[submodule "cross_avr_libc"]
+	path = cross_avr_libc
+	url = git://github.com/freddix/cross_avr_libc.git
+[submodule "cross_X86_binutils"]
+	path = cross_X86_binutils
+	url = git://github.com/freddix/cross_X86_binutils.git
+[submodule "cross_X86_gcc"]
+	path = cross_X86_gcc
+	url = git://github.com/freddix/cross_X86_gcc.git
+[submodule "cryptsetup"]
+	path = cryptsetup
+	url = git://github.com/freddix/cryptsetup.git
+[submodule "cuneiform"]
+	path = cuneiform
+	url = git://github.com/freddix/cuneiform.git
+[submodule "cups"]
+	path = cups
+	url = git://github.com/freddix/cups.git
+[submodule "cups-filters"]
+	path = cups-filters
+	url = git://github.com/freddix/cups-filters.git
+[submodule "curl"]
+	path = curl
+	url = git://github.com/freddix/curl.git
+[submodule "darktable"]
+	path = darktable
+	url = git://github.com/freddix/darktable.git
+[submodule "db47"]
+	path = db47
+	url = git://github.com/freddix/db47.git
+[submodule "dbus"]
+	path = dbus
+	url = git://github.com/freddix/dbus.git
+[submodule "dbus-glib"]
+	path = dbus-glib
+	url = git://github.com/freddix/dbus-glib.git
+[submodule "dconf"]
+	path = dconf
+	url = git://github.com/freddix/dconf.git
+[submodule "desktop-file-utils"]
+	path = desktop-file-utils
+	url = git://github.com/freddix/desktop-file-utils.git
+[submodule "devilspie"]
+	path = devilspie
+	url = git://github.com/freddix/devilspie.git
+[submodule "dhcpcd"]
+	path = dhcpcd
+	url = git://github.com/freddix/dhcpcd.git
+[submodule "dialog"]
+	path = dialog
+	url = git://github.com/freddix/dialog.git
+[submodule "diffutils"]
+	path = diffutils
+	url = git://github.com/freddix/diffutils.git
+[submodule "djvulibre"]
+	path = djvulibre
+	url = git://github.com/freddix/djvulibre.git
+[submodule "dmenu"]
+	path = dmenu
+	url = git://github.com/freddix/dmenu.git
+[submodule "docbook2x"]
+	path = docbook2x
+	url = git://github.com/freddix/docbook2x.git
+[submodule "docbook-dtd412-xml"]
+	path = docbook-dtd412-xml
+	url = git://github.com/freddix/docbook-dtd412-xml.git
+[submodule "docbook-dtd41-sgml"]
+	path = docbook-dtd41-sgml
+	url = git://github.com/freddix/docbook-dtd41-sgml.git
+[submodule "docbook-dtd42-xml"]
+	path = docbook-dtd42-xml
+	url = git://github.com/freddix/docbook-dtd42-xml.git
+[submodule "docbook-dtd43-xml"]
+	path = docbook-dtd43-xml
+	url = git://github.com/freddix/docbook-dtd43-xml.git
+[submodule "docbook-dtd44-xml"]
+	path = docbook-dtd44-xml
+	url = git://github.com/freddix/docbook-dtd44-xml.git
+[submodule "docbook-dtd45-xml"]
+	path = docbook-dtd45-xml
+	url = git://github.com/freddix/docbook-dtd45-xml.git
+[submodule "docbook-style-xsl"]
+	path = docbook-style-xsl
+	url = git://github.com/freddix/docbook-style-xsl.git
+[submodule "dos2unix"]
+	path = dos2unix
+	url = git://github.com/freddix/dos2unix.git
+[submodule "dosfstools"]
+	path = dosfstools
+	url = git://github.com/freddix/dosfstools.git
+[submodule "dssi"]
+	path = dssi
+	url = git://github.com/freddix/dssi.git
+[submodule "dssi-vst"]
+	path = dssi-vst
+	url = git://github.com/freddix/dssi-vst.git
+[submodule "e2fsprogs"]
+	path = e2fsprogs
+	url = git://github.com/freddix/e2fsprogs.git
+[submodule "e4rat"]
+	path = e4rat
+	url = git://github.com/freddix/e4rat.git
+[submodule "ecore"]
+	path = ecore
+	url = git://github.com/freddix/ecore.git
+[submodule "ecryptfs-utils"]
+	path = ecryptfs-utils
+	url = git://github.com/freddix/ecryptfs-utils.git
+[submodule "ed"]
+	path = ed
+	url = git://github.com/freddix/ed.git
+[submodule "e_dbus"]
+	path = e_dbus
+	url = git://github.com/freddix/e_dbus.git
+[submodule "edje"]
+	path = edje
+	url = git://github.com/freddix/edje.git
+[submodule "eet"]
+	path = eet
+	url = git://github.com/freddix/eet.git
+[submodule "eeze"]
+	path = eeze
+	url = git://github.com/freddix/eeze.git
+[submodule "efreet"]
+	path = efreet
+	url = git://github.com/freddix/efreet.git
+[submodule "eina"]
+	path = eina
+	url = git://github.com/freddix/eina.git
+[submodule "eio"]
+	path = eio
+	url = git://github.com/freddix/eio.git
+[submodule "elfutils"]
+	path = elfutils
+	url = git://github.com/freddix/elfutils.git
+[submodule "elinks"]
+	path = elinks
+	url = git://github.com/freddix/elinks.git
+[submodule "embryo"]
+	path = embryo
+	url = git://github.com/freddix/embryo.git
+[submodule "emotion"]
+	path = emotion
+	url = git://github.com/freddix/emotion.git
+[submodule "empathy"]
+	path = empathy
+	url = git://github.com/freddix/empathy.git
+[submodule "enca"]
+	path = enca
+	url = git://github.com/freddix/enca.git
+[submodule "enchant"]
+	path = enchant
+	url = git://github.com/freddix/enchant.git
+[submodule "eog"]
+	path = eog
+	url = git://github.com/freddix/eog.git
+[submodule "epiphany"]
+	path = epiphany
+	url = git://github.com/freddix/epiphany.git
+[submodule "epiphany-extensions"]
+	path = epiphany-extensions
+	url = git://github.com/freddix/epiphany-extensions.git
+[submodule "ethtool"]
+	path = ethtool
+	url = git://github.com/freddix/ethtool.git
+[submodule "ethumb"]
+	path = ethumb
+	url = git://github.com/freddix/ethumb.git
+[submodule "evas"]
+	path = evas
+	url = git://github.com/freddix/evas.git
+[submodule "evince"]
+	path = evince
+	url = git://github.com/freddix/evince.git
+[submodule "evince2"]
+	path = evince2
+	url = git://github.com/freddix/evince2.git
+[submodule "evolution"]
+	path = evolution
+	url = git://github.com/freddix/evolution.git
+[submodule "evolution-data-server"]
+	path = evolution-data-server
+	url = git://github.com/freddix/evolution-data-server.git
+[submodule "exempi"]
+	path = exempi
+	url = git://github.com/freddix/exempi.git
+[submodule "exiv2"]
+	path = exiv2
+	url = git://github.com/freddix/exiv2.git
+[submodule "exo"]
+	path = exo
+	url = git://github.com/freddix/exo.git
+[submodule "expat"]
+	path = expat
+	url = git://github.com/freddix/expat.git
+[submodule "faac"]
+	path = faac
+	url = git://github.com/freddix/faac.git
+[submodule "faad2"]
+	path = faad2
+	url = git://github.com/freddix/faad2.git
+[submodule "fakeroot"]
+	path = fakeroot
+	url = git://github.com/freddix/fakeroot.git
+[submodule "farstream"]
+	path = farstream
+	url = git://github.com/freddix/farstream.git
+[submodule "faust"]
+	path = faust
+	url = git://github.com/freddix/faust.git
+[submodule "fbv"]
+	path = fbv
+	url = git://github.com/freddix/fbv.git
+[submodule "ffmpeg"]
+	path = ffmpeg
+	url = git://github.com/freddix/ffmpeg.git
+[submodule "ffmpegthumbnailer"]
+	path = ffmpegthumbnailer
+	url = git://github.com/freddix/ffmpegthumbnailer.git
+[submodule "fftw3"]
+	path = fftw3
+	url = git://github.com/freddix/fftw3.git
+[submodule "FHS"]
+	path = FHS
+	url = git://github.com/freddix/FHS.git
+[submodule "file"]
+	path = file
+	url = git://github.com/freddix/file.git
+[submodule "file-roller"]
+	path = file-roller
+	url = git://github.com/freddix/file-roller.git
+[submodule "filesystem"]
+	path = filesystem
+	url = git://github.com/freddix/filesystem.git
+[submodule "findutils"]
+	path = findutils
+	url = git://github.com/freddix/findutils.git
+[submodule "firefox"]
+	path = firefox
+	url = git://github.com/freddix/firefox.git
+[submodule "firmware-iwlwifi-1000"]
+	path = firmware-iwlwifi-1000
+	url = git://github.com/freddix/firmware-iwlwifi-1000.git
+[submodule "firmware-iwlwifi-3945"]
+	path = firmware-iwlwifi-3945
+	url = git://github.com/freddix/firmware-iwlwifi-3945.git
+[submodule "firmware-iwlwifi-4965"]
+	path = firmware-iwlwifi-4965
+	url = git://github.com/freddix/firmware-iwlwifi-4965.git
+[submodule "firmware-iwlwifi-5000"]
+	path = firmware-iwlwifi-5000
+	url = git://github.com/freddix/firmware-iwlwifi-5000.git
+[submodule "firmware-iwlwifi-5150"]
+	path = firmware-iwlwifi-5150
+	url = git://github.com/freddix/firmware-iwlwifi-5150.git
+[submodule "firmware-iwlwifi-6000"]
+	path = firmware-iwlwifi-6000
+	url = git://github.com/freddix/firmware-iwlwifi-6000.git
+[submodule "firmware-iwlwifi-6005"]
+	path = firmware-iwlwifi-6005
+	url = git://github.com/freddix/firmware-iwlwifi-6005.git
+[submodule "firmware-iwlwifi-6030"]
+	path = firmware-iwlwifi-6030
+	url = git://github.com/freddix/firmware-iwlwifi-6030.git
+[submodule "firmware-iwlwifi-6050"]
+	path = firmware-iwlwifi-6050
+	url = git://github.com/freddix/firmware-iwlwifi-6050.git
+[submodule "fix-info-dir"]
+	path = fix-info-dir
+	url = git://github.com/freddix/fix-info-dir.git
+[submodule "flac"]
+	path = flac
+	url = git://github.com/freddix/flac.git
+[submodule "flex"]
+	path = flex
+	url = git://github.com/freddix/flex.git
+[submodule "flowcanvas"]
+	path = flowcanvas
+	url = git://github.com/freddix/flowcanvas.git
+[submodule "fltk"]
+	path = fltk
+	url = git://github.com/freddix/fltk.git
+[submodule "fluidsynth"]
+	path = fluidsynth
+	url = git://github.com/freddix/fluidsynth.git
+[submodule "folks"]
+	path = folks
+	url = git://github.com/freddix/folks.git
+[submodule "fontconfig"]
+	path = fontconfig
+	url = git://github.com/freddix/fontconfig.git
+[submodule "fontpostinst"]
+	path = fontpostinst
+	url = git://github.com/freddix/fontpostinst.git
+[submodule "fonts-bitmap-artwiz"]
+	path = fonts-bitmap-artwiz
+	url = git://github.com/freddix/fonts-bitmap-artwiz.git
+[submodule "fonts-OTF-Cantarell"]
+	path = fonts-OTF-Cantarell
+	url = git://github.com/freddix/fonts-OTF-Cantarell.git
+[submodule "fonts-TTF-DejaVu"]
+	path = fonts-TTF-DejaVu
+	url = git://github.com/freddix/fonts-TTF-DejaVu.git
+[submodule "fonts-TTF-droid"]
+	path = fonts-TTF-droid
+	url = git://github.com/freddix/fonts-TTF-droid.git
+[submodule "foomatic-filters"]
+	path = foomatic-filters
+	url = git://github.com/freddix/foomatic-filters.git
+[submodule "freealut"]
+	path = freealut
+	url = git://github.com/freddix/freealut.git
+[submodule "freeglut"]
+	path = freeglut
+	url = git://github.com/freddix/freeglut.git
+[submodule "freetype"]
+	path = freetype
+	url = git://github.com/freddix/freetype.git
+[submodule "frei0r"]
+	path = frei0r
+	url = git://github.com/freddix/frei0r.git
+[submodule "fribidi"]
+	path = fribidi
+	url = git://github.com/freddix/fribidi.git
+[submodule "fst"]
+	path = fst
+	url = git://github.com/freddix/fst.git
+[submodule "fuse"]
+	path = fuse
+	url = git://github.com/freddix/fuse.git
+[submodule "fuse-curlftpfs"]
+	path = fuse-curlftpfs
+	url = git://github.com/freddix/fuse-curlftpfs.git
+[submodule "gammu"]
+	path = gammu
+	url = git://github.com/freddix/gammu.git
+[submodule "garcon"]
+	path = garcon
+	url = git://github.com/freddix/garcon.git
+[submodule "gavl"]
+	path = gavl
+	url = git://github.com/freddix/gavl.git
+[submodule "gawk"]
+	path = gawk
+	url = git://github.com/freddix/gawk.git
+[submodule "gc"]
+	path = gc
+	url = git://github.com/freddix/gc.git
+[submodule "gcalctool"]
+	path = gcalctool
+	url = git://github.com/freddix/gcalctool.git
+[submodule "gcc"]
+	path = gcc
+	url = git://github.com/freddix/gcc.git
+[submodule "GConf"]
+	path = GConf
+	url = git://github.com/freddix/GConf.git
+[submodule "gcr"]
+	path = gcr
+	url = git://github.com/freddix/gcr.git
+[submodule "gd"]
+	path = gd
+	url = git://github.com/freddix/gd.git
+[submodule "gdb"]
+	path = gdb
+	url = git://github.com/freddix/gdb.git
+[submodule "gdbm"]
+	path = gdbm
+	url = git://github.com/freddix/gdbm.git
+[submodule "gdk-pixbuf"]
+	path = gdk-pixbuf
+	url = git://github.com/freddix/gdk-pixbuf.git
+[submodule "gdm"]
+	path = gdm
+	url = git://github.com/freddix/gdm.git
+[submodule "geany"]
+	path = geany
+	url = git://github.com/freddix/geany.git
+[submodule "gedit"]
+	path = gedit
+	url = git://github.com/freddix/gedit.git
+[submodule "gegl"]
+	path = gegl
+	url = git://github.com/freddix/gegl.git
+[submodule "geoclue"]
+	path = geoclue
+	url = git://github.com/freddix/geoclue.git
+[submodule "gettext"]
+	path = gettext
+	url = git://github.com/freddix/gettext.git
+[submodule "ghostscript"]
+	path = ghostscript
+	url = git://github.com/freddix/ghostscript.git
+[submodule "giflib"]
+	path = giflib
+	url = git://github.com/freddix/giflib.git
+[submodule "giggle"]
+	path = giggle
+	url = git://github.com/freddix/giggle.git
+[submodule "gigolo"]
+	path = gigolo
+	url = git://github.com/freddix/gigolo.git
+[submodule "gimp"]
+	path = gimp
+	url = git://github.com/freddix/gimp.git
+[submodule "gimp-plugin-dbp"]
+	path = gimp-plugin-dbp
+	url = git://github.com/freddix/gimp-plugin-dbp.git
+[submodule "gimp-plugin-focus-blur"]
+	path = gimp-plugin-focus-blur
+	url = git://github.com/freddix/gimp-plugin-focus-blur.git
+[submodule "gimp-plugin-gmic"]
+	path = gimp-plugin-gmic
+	url = git://github.com/freddix/gimp-plugin-gmic.git
+[submodule "gimp-plugin-GREYCstoration"]
+	path = gimp-plugin-GREYCstoration
+	url = git://github.com/freddix/gimp-plugin-GREYCstoration.git
+[submodule "gimp-plugin-hdrtools"]
+	path = gimp-plugin-hdrtools
+	url = git://github.com/freddix/gimp-plugin-hdrtools.git
+[submodule "gimp-plugin-lqr"]
+	path = gimp-plugin-lqr
+	url = git://github.com/freddix/gimp-plugin-lqr.git
+[submodule "gimp-plugin-resynthesizer"]
+	path = gimp-plugin-resynthesizer
+	url = git://github.com/freddix/gimp-plugin-resynthesizer.git
+[submodule "gimp-plugin-toy"]
+	path = gimp-plugin-toy
+	url = git://github.com/freddix/gimp-plugin-toy.git
+[submodule "gimp-scripts"]
+	path = gimp-scripts
+	url = git://github.com/freddix/gimp-scripts.git
+[submodule "git"]
+	path = git
+	url = git://github.com/freddix/git.git
+[submodule "gjs"]
+	path = gjs
+	url = git://github.com/freddix/gjs.git
+[submodule "glew"]
+	path = glew
+	url = git://github.com/freddix/glew.git
+[submodule "glib"]
+	path = glib
+	url = git://github.com/freddix/glib.git
+[submodule "glibc"]
+	path = glibc
+	url = git://github.com/freddix/glibc.git
+[submodule "glibmm"]
+	path = glibmm
+	url = git://github.com/freddix/glibmm.git
+[submodule "glib-networking"]
+	path = glib-networking
+	url = git://github.com/freddix/glib-networking.git
+[submodule "gmime"]
+	path = gmime
+	url = git://github.com/freddix/gmime.git
+[submodule "gmp"]
+	path = gmp
+	url = git://github.com/freddix/gmp.git
+[submodule "gmrun"]
+	path = gmrun
+	url = git://github.com/freddix/gmrun.git
+[submodule "gnome"]
+	path = gnome
+	url = git://github.com/freddix/gnome.git
+[submodule "gnome-backgrounds"]
+	path = gnome-backgrounds
+	url = git://github.com/freddix/gnome-backgrounds.git
+[submodule "gnome-bluetooth"]
+	path = gnome-bluetooth
+	url = git://github.com/freddix/gnome-bluetooth.git
+[submodule "gnome-color-manager"]
+	path = gnome-color-manager
+	url = git://github.com/freddix/gnome-color-manager.git
+[submodule "gnome-contacts"]
+	path = gnome-contacts
+	url = git://github.com/freddix/gnome-contacts.git
+[submodule "gnome-control-center"]
+	path = gnome-control-center
+	url = git://github.com/freddix/gnome-control-center.git
+[submodule "gnome-desktop"]
+	path = gnome-desktop
+	url = git://github.com/freddix/gnome-desktop.git
+[submodule "gnome-desktop2"]
+	path = gnome-desktop2
+	url = git://github.com/freddix/gnome-desktop2.git
+[submodule "gnome-dictionary"]
+	path = gnome-dictionary
+	url = git://github.com/freddix/gnome-dictionary.git
+[submodule "gnome-disk-utility"]
+	path = gnome-disk-utility
+	url = git://github.com/freddix/gnome-disk-utility.git
+[submodule "gnome-documents"]
+	path = gnome-documents
+	url = git://github.com/freddix/gnome-documents.git
+[submodule "gnome-doc-utils"]
+	path = gnome-doc-utils
+	url = git://github.com/freddix/gnome-doc-utils.git
+[submodule "gnome-font-viewer"]
+	path = gnome-font-viewer
+	url = git://github.com/freddix/gnome-font-viewer.git
+[submodule "gnome-icon-theme"]
+	path = gnome-icon-theme
+	url = git://github.com/freddix/gnome-icon-theme.git
+[submodule "gnome-keyring"]
+	path = gnome-keyring
+	url = git://github.com/freddix/gnome-keyring.git
+[submodule "gnome-menus"]
+	path = gnome-menus
+	url = git://github.com/freddix/gnome-menus.git
+[submodule "gnome-online-accounts"]
+	path = gnome-online-accounts
+	url = git://github.com/freddix/gnome-online-accounts.git
+[submodule "gnome-panel"]
+	path = gnome-panel
+	url = git://github.com/freddix/gnome-panel.git
+[submodule "gnome-photos"]
+	path = gnome-photos
+	url = git://github.com/freddix/gnome-photos.git
+[submodule "gnome-power-manager"]
+	path = gnome-power-manager
+	url = git://github.com/freddix/gnome-power-manager.git
+[submodule "gnome-screensaver"]
+	path = gnome-screensaver
+	url = git://github.com/freddix/gnome-screensaver.git
+[submodule "gnome-screenshot"]
+	path = gnome-screenshot
+	url = git://github.com/freddix/gnome-screenshot.git
+[submodule "gnome-session"]
+	path = gnome-session
+	url = git://github.com/freddix/gnome-session.git
+[submodule "gnome-settings-daemon"]
+	path = gnome-settings-daemon
+	url = git://github.com/freddix/gnome-settings-daemon.git
+[submodule "gnome-shell"]
+	path = gnome-shell
+	url = git://github.com/freddix/gnome-shell.git
+[submodule "gnome-shell-extensions"]
+	path = gnome-shell-extensions
+	url = git://github.com/freddix/gnome-shell-extensions.git
+[submodule "gnome-system-log"]
+	path = gnome-system-log
+	url = git://github.com/freddix/gnome-system-log.git
+[submodule "gnome-system-monitor"]
+	path = gnome-system-monitor
+	url = git://github.com/freddix/gnome-system-monitor.git
+[submodule "gnome-terminal"]
+	path = gnome-terminal
+	url = git://github.com/freddix/gnome-terminal.git
+[submodule "gnome-theme-colors"]
+	path = gnome-theme-colors
+	url = git://github.com/freddix/gnome-theme-colors.git
+[submodule "gnome-themes-standard"]
+	path = gnome-themes-standard
+	url = git://github.com/freddix/gnome-themes-standard.git
+[submodule "gnome-tweak-tool"]
+	path = gnome-tweak-tool
+	url = git://github.com/freddix/gnome-tweak-tool.git
+[submodule "gnome-user-docs"]
+	path = gnome-user-docs
+	url = git://github.com/freddix/gnome-user-docs.git
+[submodule "gnome-video-effects"]
+	path = gnome-video-effects
+	url = git://github.com/freddix/gnome-video-effects.git
+[submodule "gnote"]
+	path = gnote
+	url = git://github.com/freddix/gnote.git
+[submodule "gnumeric"]
+	path = gnumeric
+	url = git://github.com/freddix/gnumeric.git
+[submodule "gnupg"]
+	path = gnupg
+	url = git://github.com/freddix/gnupg.git
+[submodule "gnupg2"]
+	path = gnupg2
+	url = git://github.com/freddix/gnupg2.git
+[submodule "gnutls"]
+	path = gnutls
+	url = git://github.com/freddix/gnutls.git
+[submodule "gobject-introspection"]
+	path = gobject-introspection
+	url = git://github.com/freddix/gobject-introspection.git
+[submodule "goocanvas"]
+	path = goocanvas
+	url = git://github.com/freddix/goocanvas.git
+[submodule "gparted"]
+	path = gparted
+	url = git://github.com/freddix/gparted.git
+[submodule "gperf"]
+	path = gperf
+	url = git://github.com/freddix/gperf.git
+[submodule "gpgme"]
+	path = gpgme
+	url = git://github.com/freddix/gpgme.git
+[submodule "gphoto2"]
+	path = gphoto2
+	url = git://github.com/freddix/gphoto2.git
+[submodule "gpm"]
+	path = gpm
+	url = git://github.com/freddix/gpm.git
+[submodule "gptfdisk"]
+	path = gptfdisk
+	url = git://github.com/freddix/gptfdisk.git
+[submodule "grantlee"]
+	path = grantlee
+	url = git://github.com/freddix/grantlee.git
+[submodule "graphviz"]
+	path = graphviz
+	url = git://github.com/freddix/graphviz.git
+[submodule "grep"]
+	path = grep
+	url = git://github.com/freddix/grep.git
+[submodule "grilo"]
+	path = grilo
+	url = git://github.com/freddix/grilo.git
+[submodule "grilo-plugins"]
+	path = grilo-plugins
+	url = git://github.com/freddix/grilo-plugins.git
+[submodule "groff"]
+	path = groff
+	url = git://github.com/freddix/groff.git
+[submodule "gsettings-desktop-schemas"]
+	path = gsettings-desktop-schemas
+	url = git://github.com/freddix/gsettings-desktop-schemas.git
+[submodule "gsl"]
+	path = gsl
+	url = git://github.com/freddix/gsl.git
+[submodule "gssdp"]
+	path = gssdp
+	url = git://github.com/freddix/gssdp.git
+[submodule "gstreamer"]
+	path = gstreamer
+	url = git://github.com/freddix/gstreamer.git
+[submodule "gstreamer010"]
+	path = gstreamer010
+	url = git://github.com/freddix/gstreamer010.git
+[submodule "gstreamer010-ffmpeg"]
+	path = gstreamer010-ffmpeg
+	url = git://github.com/freddix/gstreamer010-ffmpeg.git
+[submodule "gstreamer010-fluendo-mpegdemux"]
+	path = gstreamer010-fluendo-mpegdemux
+	url = git://github.com/freddix/gstreamer010-fluendo-mpegdemux.git
+[submodule "gstreamer010-plugins-bad"]
+	path = gstreamer010-plugins-bad
+	url = git://github.com/freddix/gstreamer010-plugins-bad.git
+[submodule "gstreamer010-plugins-base"]
+	path = gstreamer010-plugins-base
+	url = git://github.com/freddix/gstreamer010-plugins-base.git
+[submodule "gstreamer010-plugins-good"]
+	path = gstreamer010-plugins-good
+	url = git://github.com/freddix/gstreamer010-plugins-good.git
+[submodule "gstreamer010-plugins-ugly"]
+	path = gstreamer010-plugins-ugly
+	url = git://github.com/freddix/gstreamer010-plugins-ugly.git
+[submodule "gstreamer010-vaapi"]
+	path = gstreamer010-vaapi
+	url = git://github.com/freddix/gstreamer010-vaapi.git
+[submodule "gstreamer-plugins-bad"]
+	path = gstreamer-plugins-bad
+	url = git://github.com/freddix/gstreamer-plugins-bad.git
+[submodule "gstreamer-plugins-base"]
+	path = gstreamer-plugins-base
+	url = git://github.com/freddix/gstreamer-plugins-base.git
+[submodule "gstreamer-plugins-good"]
+	path = gstreamer-plugins-good
+	url = git://github.com/freddix/gstreamer-plugins-good.git
+[submodule "gstreamer-plugins-ugly"]
+	path = gstreamer-plugins-ugly
+	url = git://github.com/freddix/gstreamer-plugins-ugly.git
+[submodule "gthumb"]
+	path = gthumb
+	url = git://github.com/freddix/gthumb.git
+[submodule "gtk-doc"]
+	path = gtk-doc
+	url = git://github.com/freddix/gtk-doc.git
+[submodule "gtkglext"]
+	path = gtkglext
+	url = git://github.com/freddix/gtkglext.git
+[submodule "gtkhtml"]
+	path = gtkhtml
+	url = git://github.com/freddix/gtkhtml.git
+[submodule "gtkmm"]
+	path = gtkmm
+	url = git://github.com/freddix/gtkmm.git
+[submodule "gtkperf"]
+	path = gtkperf
+	url = git://github.com/freddix/gtkperf.git
+[submodule "gtksourceview3"]
+	path = gtksourceview3
+	url = git://github.com/freddix/gtksourceview3.git
+[submodule "gucharmap"]
+	path = gucharmap
+	url = git://github.com/freddix/gucharmap.git
+[submodule "guitarix2"]
+	path = guitarix2
+	url = git://github.com/freddix/guitarix2.git
+[submodule "gupnp"]
+	path = gupnp
+	url = git://github.com/freddix/gupnp.git
+[submodule "gupnp-av"]
+	path = gupnp-av
+	url = git://github.com/freddix/gupnp-av.git
+[submodule "gupnp-dlna"]
+	path = gupnp-dlna
+	url = git://github.com/freddix/gupnp-dlna.git
+[submodule "gupnp-igd"]
+	path = gupnp-igd
+	url = git://github.com/freddix/gupnp-igd.git
+[submodule "gvfs"]
+	path = gvfs
+	url = git://github.com/freddix/gvfs.git
+[submodule "gzip"]
+	path = gzip
+	url = git://github.com/freddix/gzip.git
+[submodule "harfbuzz"]
+	path = harfbuzz
+	url = git://github.com/freddix/harfbuzz.git
+[submodule "help2man"]
+	path = help2man
+	url = git://github.com/freddix/help2man.git
+[submodule "hplip"]
+	path = hplip
+	url = git://github.com/freddix/hplip.git
+[submodule "hunspell"]
+	path = hunspell
+	url = git://github.com/freddix/hunspell.git
+[submodule "hunspell-dictionaries"]
+	path = hunspell-dictionaries
+	url = git://github.com/freddix/hunspell-dictionaries.git
+[submodule "hydrogen"]
+	path = hydrogen
+	url = git://github.com/freddix/hydrogen.git
+[submodule "hydrogen-drumkits"]
+	path = hydrogen-drumkits
+	url = git://github.com/freddix/hydrogen-drumkits.git
+[submodule "i3"]
+	path = i3
+	url = git://github.com/freddix/i3.git
+[submodule "i3status"]
+	path = i3status
+	url = git://github.com/freddix/i3status.git
+[submodule "i7z"]
+	path = i7z
+	url = git://github.com/freddix/i7z.git
+[submodule "iana-etc"]
+	path = iana-etc
+	url = git://github.com/freddix/iana-etc.git
+[submodule "icon-naming-utils"]
+	path = icon-naming-utils
+	url = git://github.com/freddix/icon-naming-utils.git
+[submodule "icu"]
+	path = icu
+	url = git://github.com/freddix/icu.git
+[submodule "id3lib"]
+	path = id3lib
+	url = git://github.com/freddix/id3lib.git
+[submodule "ilmbase"]
+	path = ilmbase
+	url = git://github.com/freddix/ilmbase.git
+[submodule "ImageMagick"]
+	path = ImageMagick
+	url = git://github.com/freddix/ImageMagick.git
+[submodule "imlib2"]
+	path = imlib2
+	url = git://github.com/freddix/imlib2.git
+[submodule "inetutils"]
+	path = inetutils
+	url = git://github.com/freddix/inetutils.git
+[submodule "inkscape"]
+	path = inkscape
+	url = git://github.com/freddix/inkscape.git
+[submodule "intltool"]
+	path = intltool
+	url = git://github.com/freddix/intltool.git
+[submodule "iproute2"]
+	path = iproute2
+	url = git://github.com/freddix/iproute2.git
+[submodule "iptables"]
+	path = iptables
+	url = git://github.com/freddix/iptables.git
+[submodule "iso-codes"]
+	path = iso-codes
+	url = git://github.com/freddix/iso-codes.git
+[submodule "itstool"]
+	path = itstool
+	url = git://github.com/freddix/itstool.git
+[submodule "jack"]
+	path = jack
+	url = git://github.com/freddix/jack.git
+[submodule "jack-rack"]
+	path = jack-rack
+	url = git://github.com/freddix/jack-rack.git
+[submodule "jalv"]
+	path = jalv
+	url = git://github.com/freddix/jalv.git
+[submodule "jasper"]
+	path = jasper
+	url = git://github.com/freddix/jasper.git
+[submodule "jconvolver"]
+	path = jconvolver
+	url = git://github.com/freddix/jconvolver.git
+[submodule "js"]
+	path = js
+	url = git://github.com/freddix/js.git
+[submodule "json-c"]
+	path = json-c
+	url = git://github.com/freddix/json-c.git
+[submodule "json-glib"]
+	path = json-glib
+	url = git://github.com/freddix/json-glib.git
+[submodule "kbd"]
+	path = kbd
+	url = git://github.com/freddix/kbd.git
+[submodule "keepassx"]
+	path = keepassx
+	url = git://github.com/freddix/keepassx.git
+[submodule "kernel"]
+	path = kernel
+	url = git://github.com/freddix/kernel.git
+[submodule "keychain"]
+	path = keychain
+	url = git://github.com/freddix/keychain.git
+[submodule "keyutils"]
+	path = keyutils
+	url = git://github.com/freddix/keyutils.git
+[submodule "kmod"]
+	path = kmod
+	url = git://github.com/freddix/kmod.git
+[submodule "ladspa"]
+	path = ladspa
+	url = git://github.com/freddix/ladspa.git
+[submodule "ladspa-plugins-caps"]
+	path = ladspa-plugins-caps
+	url = git://github.com/freddix/ladspa-plugins-caps.git
+[submodule "ladspa-plugins-rev"]
+	path = ladspa-plugins-rev
+	url = git://github.com/freddix/ladspa-plugins-rev.git
+[submodule "ladspa-plugins-tap"]
+	path = ladspa-plugins-tap
+	url = git://github.com/freddix/ladspa-plugins-tap.git
+[submodule "ladspa-vocoder"]
+	path = ladspa-vocoder
+	url = git://github.com/freddix/ladspa-vocoder.git
+[submodule "lame"]
+	path = lame
+	url = git://github.com/freddix/lame.git
+[submodule "lapack"]
+	path = lapack
+	url = git://github.com/freddix/lapack.git
+[submodule "lash"]
+	path = lash
+	url = git://github.com/freddix/lash.git
+[submodule "lcms"]
+	path = lcms
+	url = git://github.com/freddix/lcms.git
+[submodule "lcms2"]
+	path = lcms2
+	url = git://github.com/freddix/lcms2.git
+[submodule "leafpad"]
+	path = leafpad
+	url = git://github.com/freddix/leafpad.git
+[submodule "lensfun"]
+	path = lensfun
+	url = git://github.com/freddix/lensfun.git
+[submodule "leptonica"]
+	path = leptonica
+	url = git://github.com/freddix/leptonica.git
+[submodule "less"]
+	path = less
+	url = git://github.com/freddix/less.git
+[submodule "libao"]
+	path = libao
+	url = git://github.com/freddix/libao.git
+[submodule "libarchive"]
+	path = libarchive
+	url = git://github.com/freddix/libarchive.git
+[submodule "libart_lgpl"]
+	path = libart_lgpl
+	url = git://github.com/freddix/libart_lgpl.git
+[submodule "libass"]
+	path = libass
+	url = git://github.com/freddix/libass.git
+[submodule "libassuan"]
+	path = libassuan
+	url = git://github.com/freddix/libassuan.git
+[submodule "libasyncns"]
+	path = libasyncns
+	url = git://github.com/freddix/libasyncns.git
+[submodule "libatasmart"]
+	path = libatasmart
+	url = git://github.com/freddix/libatasmart.git
+[submodule "libatomic_ops"]
+	path = libatomic_ops
+	url = git://github.com/freddix/libatomic_ops.git
+[submodule "libav"]
+	path = libav
+	url = git://github.com/freddix/libav.git
+[submodule "libavc1394"]
+	path = libavc1394
+	url = git://github.com/freddix/libavc1394.git
+[submodule "libbluray"]
+	path = libbluray
+	url = git://github.com/freddix/libbluray.git
+[submodule "libburn"]
+	path = libburn
+	url = git://github.com/freddix/libburn.git
+[submodule "libcanberra"]
+	path = libcanberra
+	url = git://github.com/freddix/libcanberra.git
+[submodule "libcap"]
+	path = libcap
+	url = git://github.com/freddix/libcap.git
+[submodule "libcap-ng"]
+	path = libcap-ng
+	url = git://github.com/freddix/libcap-ng.git
+[submodule "libcdaudio"]
+	path = libcdaudio
+	url = git://github.com/freddix/libcdaudio.git
+[submodule "libcddb"]
+	path = libcddb
+	url = git://github.com/freddix/libcddb.git
+[submodule "libcdio"]
+	path = libcdio
+	url = git://github.com/freddix/libcdio.git
+[submodule "libchamplain"]
+	path = libchamplain
+	url = git://github.com/freddix/libchamplain.git
+[submodule "libconfig"]
+	path = libconfig
+	url = git://github.com/freddix/libconfig.git
+[submodule "libconfuse"]
+	path = libconfuse
+	url = git://github.com/freddix/libconfuse.git
+[submodule "libcroco"]
+	path = libcroco
+	url = git://github.com/freddix/libcroco.git
+[submodule "libdaemon"]
+	path = libdaemon
+	url = git://github.com/freddix/libdaemon.git
+[submodule "libdc1394"]
+	path = libdc1394
+	url = git://github.com/freddix/libdc1394.git
+[submodule "libdca"]
+	path = libdca
+	url = git://github.com/freddix/libdca.git
+[submodule "libdiscid"]
+	path = libdiscid
+	url = git://github.com/freddix/libdiscid.git
+[submodule "libdrm"]
+	path = libdrm
+	url = git://github.com/freddix/libdrm.git
+[submodule "libdvdcss"]
+	path = libdvdcss
+	url = git://github.com/freddix/libdvdcss.git
+[submodule "libdvdnav"]
+	path = libdvdnav
+	url = git://github.com/freddix/libdvdnav.git
+[submodule "libdvdread"]
+	path = libdvdread
+	url = git://github.com/freddix/libdvdread.git
+[submodule "libebml"]
+	path = libebml
+	url = git://github.com/freddix/libebml.git
+[submodule "libev"]
+	path = libev
+	url = git://github.com/freddix/libev.git
+[submodule "libevent"]
+	path = libevent
+	url = git://github.com/freddix/libevent.git
+[submodule "libexif"]
+	path = libexif
+	url = git://github.com/freddix/libexif.git
+[submodule "libffado"]
+	path = libffado
+	url = git://github.com/freddix/libffado.git
+[submodule "libffi"]
+	path = libffi
+	url = git://github.com/freddix/libffi.git
+[submodule "libfm"]
+	path = libfm
+	url = git://github.com/freddix/libfm.git
+[submodule "libgcrypt"]
+	path = libgcrypt
+	url = git://github.com/freddix/libgcrypt.git
+[submodule "libgdata"]
+	path = libgdata
+	url = git://github.com/freddix/libgdata.git
+[submodule "libgee"]
+	path = libgee
+	url = git://github.com/freddix/libgee.git
+[submodule "libgexiv2"]
+	path = libgexiv2
+	url = git://github.com/freddix/libgexiv2.git
+[submodule "libglade"]
+	path = libglade
+	url = git://github.com/freddix/libglade.git
+[submodule "libglademm"]
+	path = libglademm
+	url = git://github.com/freddix/libglademm.git
+[submodule "libgnomecanvas"]
+	path = libgnomecanvas
+	url = git://github.com/freddix/libgnomecanvas.git
+[submodule "libgnomecanvasmm"]
+	path = libgnomecanvasmm
+	url = git://github.com/freddix/libgnomecanvasmm.git
+[submodule "libgnomekbd"]
+	path = libgnomekbd
+	url = git://github.com/freddix/libgnomekbd.git
+[submodule "libgnome-keyring"]
+	path = libgnome-keyring
+	url = git://github.com/freddix/libgnome-keyring.git
+[submodule "libgoffice"]
+	path = libgoffice
+	url = git://github.com/freddix/libgoffice.git
+[submodule "libgpg-error"]
+	path = libgpg-error
+	url = git://github.com/freddix/libgpg-error.git
+[submodule "libgphoto2"]
+	path = libgphoto2
+	url = git://github.com/freddix/libgphoto2.git
+[submodule "libgsf"]
+	path = libgsf
+	url = git://github.com/freddix/libgsf.git
+[submodule "libgtop"]
+	path = libgtop
+	url = git://github.com/freddix/libgtop.git
+[submodule "libgusb"]
+	path = libgusb
+	url = git://github.com/freddix/libgusb.git
+[submodule "libgweather"]
+	path = libgweather
+	url = git://github.com/freddix/libgweather.git
+[submodule "libical"]
+	path = libical
+	url = git://github.com/freddix/libical.git
+[submodule "libid3tag"]
+	path = libid3tag
+	url = git://github.com/freddix/libid3tag.git
+[submodule "libIDL"]
+	path = libIDL
+	url = git://github.com/freddix/libIDL.git
+[submodule "libidn"]
+	path = libidn
+	url = git://github.com/freddix/libidn.git
+[submodule "libiec61883"]
+	path = libiec61883
+	url = git://github.com/freddix/libiec61883.git
+[submodule "libiptcdata"]
+	path = libiptcdata
+	url = git://github.com/freddix/libiptcdata.git
+[submodule "libisoburn"]
+	path = libisoburn
+	url = git://github.com/freddix/libisoburn.git
+[submodule "libisofs"]
+	path = libisofs
+	url = git://github.com/freddix/libisofs.git
+[submodule "libjpeg-turbo"]
+	path = libjpeg-turbo
+	url = git://github.com/freddix/libjpeg-turbo.git
+[submodule "libkate"]
+	path = libkate
+	url = git://github.com/freddix/libkate.git
+[submodule "libksba"]
+	path = libksba
+	url = git://github.com/freddix/libksba.git
+[submodule "liblilv"]
+	path = liblilv
+	url = git://github.com/freddix/liblilv.git
+[submodule "liblo"]
+	path = liblo
+	url = git://github.com/freddix/liblo.git
+[submodule "liblrdf"]
+	path = liblrdf
+	url = git://github.com/freddix/liblrdf.git
+[submodule "libmad"]
+	path = libmad
+	url = git://github.com/freddix/libmad.git
+[submodule "libmatroska"]
+	path = libmatroska
+	url = git://github.com/freddix/libmatroska.git
+[submodule "libmicrohttpd"]
+	path = libmicrohttpd
+	url = git://github.com/freddix/libmicrohttpd.git
+[submodule "libmms"]
+	path = libmms
+	url = git://github.com/freddix/libmms.git
+[submodule "libmng"]
+	path = libmng
+	url = git://github.com/freddix/libmng.git
+[submodule "libmodplug"]
+	path = libmodplug
+	url = git://github.com/freddix/libmodplug.git
+[submodule "libmpeg2"]
+	path = libmpeg2
+	url = git://github.com/freddix/libmpeg2.git
+[submodule "libmspack"]
+	path = libmspack
+	url = git://github.com/freddix/libmspack.git
+[submodule "libmtp"]
+	path = libmtp
+	url = git://github.com/freddix/libmtp.git
+[submodule "libmusicbrainz5"]
+	path = libmusicbrainz5
+	url = git://github.com/freddix/libmusicbrainz5.git
+[submodule "libnice"]
+	path = libnice
+	url = git://github.com/freddix/libnice.git
+[submodule "libnl"]
+	path = libnl
+	url = git://github.com/freddix/libnl.git
+[submodule "libnotify"]
+	path = libnotify
+	url = git://github.com/freddix/libnotify.git
+[submodule "libnscd"]
+	path = libnscd
+	url = git://github.com/freddix/libnscd.git
+[submodule "liboauth"]
+	path = liboauth
+	url = git://github.com/freddix/liboauth.git
+[submodule "libofa"]
+	path = libofa
+	url = git://github.com/freddix/libofa.git
+[submodule "libogg"]
+	path = libogg
+	url = git://github.com/freddix/libogg.git
+[submodule "libpciaccess"]
+	path = libpciaccess
+	url = git://github.com/freddix/libpciaccess.git
+[submodule "libpeas"]
+	path = libpeas
+	url = git://github.com/freddix/libpeas.git
+[submodule "libpipeline"]
+	path = libpipeline
+	url = git://github.com/freddix/libpipeline.git
+[submodule "libpng"]
+	path = libpng
+	url = git://github.com/freddix/libpng.git
+[submodule "libpng12"]
+	path = libpng12
+	url = git://github.com/freddix/libpng12.git
+[submodule "libproxy"]
+	path = libproxy
+	url = git://github.com/freddix/libproxy.git
+[submodule "libpthread-stubs"]
+	path = libpthread-stubs
+	url = git://github.com/freddix/libpthread-stubs.git
+[submodule "libpwquality"]
+	path = libpwquality
+	url = git://github.com/freddix/libpwquality.git
+[submodule "libquvi"]
+	path = libquvi
+	url = git://github.com/freddix/libquvi.git
+[submodule "libquvi-scripts"]
+	path = libquvi-scripts
+	url = git://github.com/freddix/libquvi-scripts.git
+[submodule "libraw"]
+	path = libraw
+	url = git://github.com/freddix/libraw.git
+[submodule "libraw1394"]
+	path = libraw1394
+	url = git://github.com/freddix/libraw1394.git
+[submodule "librsvg"]
+	path = librsvg
+	url = git://github.com/freddix/librsvg.git
+[submodule "libsamplerate"]
+	path = libsamplerate
+	url = git://github.com/freddix/libsamplerate.git
+[submodule "libsasl2"]
+	path = libsasl2
+	url = git://github.com/freddix/libsasl2.git
+[submodule "libsbc"]
+	path = libsbc
+	url = git://github.com/freddix/libsbc.git
+[submodule "libsecret"]
+	path = libsecret
+	url = git://github.com/freddix/libsecret.git
+[submodule "libserd"]
+	path = libserd
+	url = git://github.com/freddix/libserd.git
+[submodule "libsmbclient"]
+	path = libsmbclient
+	url = git://github.com/freddix/libsmbclient.git
+[submodule "libsndfile"]
+	path = libsndfile
+	url = git://github.com/freddix/libsndfile.git
+[submodule "libsocialweb"]
+	path = libsocialweb
+	url = git://github.com/freddix/libsocialweb.git
+[submodule "libsord"]
+	path = libsord
+	url = git://github.com/freddix/libsord.git
+[submodule "libsoup"]
+	path = libsoup
+	url = git://github.com/freddix/libsoup.git
+[submodule "libspectre"]
+	path = libspectre
+	url = git://github.com/freddix/libspectre.git
+[submodule "libsratom"]
+	path = libsratom
+	url = git://github.com/freddix/libsratom.git
+[submodule "libssh2"]
+	path = libssh2
+	url = git://github.com/freddix/libssh2.git
+[submodule "libsuil"]
+	path = libsuil
+	url = git://github.com/freddix/libsuil.git
+[submodule "libtasn1"]
+	path = libtasn1
+	url = git://github.com/freddix/libtasn1.git
+[submodule "libtheora"]
+	path = libtheora
+	url = git://github.com/freddix/libtheora.git
+[submodule "libtiff"]
+	path = libtiff
+	url = git://github.com/freddix/libtiff.git
+[submodule "libtool"]
+	path = libtool
+	url = git://github.com/freddix/libtool.git
+[submodule "libtxc_dxtn"]
+	path = libtxc_dxtn
+	url = git://github.com/freddix/libtxc_dxtn.git
+[submodule "libunique"]
+	path = libunique
+	url = git://github.com/freddix/libunique.git
+[submodule "libunique3"]
+	path = libunique3
+	url = git://github.com/freddix/libunique3.git
+[submodule "libusb-compat"]
+	path = libusb-compat
+	url = git://github.com/freddix/libusb-compat.git
+[submodule "libusbx"]
+	path = libusbx
+	url = git://github.com/freddix/libusbx.git
+[submodule "libva"]
+	path = libva
+	url = git://github.com/freddix/libva.git
+[submodule "libva-driver-intel"]
+	path = libva-driver-intel
+	url = git://github.com/freddix/libva-driver-intel.git
+[submodule "libvisual"]
+	path = libvisual
+	url = git://github.com/freddix/libvisual.git
+[submodule "libvorbis"]
+	path = libvorbis
+	url = git://github.com/freddix/libvorbis.git
+[submodule "libvpx"]
+	path = libvpx
+	url = git://github.com/freddix/libvpx.git
+[submodule "libwacom"]
+	path = libwacom
+	url = git://github.com/freddix/libwacom.git
+[submodule "libwnck"]
+	path = libwnck
+	url = git://github.com/freddix/libwnck.git
+[submodule "libwnck2"]
+	path = libwnck2
+	url = git://github.com/freddix/libwnck2.git
+[submodule "libx264"]
+	path = libx264
+	url = git://github.com/freddix/libx264.git
+[submodule "libxcb"]
+	path = libxcb
+	url = git://github.com/freddix/libxcb.git
+[submodule "libxfce4ui"]
+	path = libxfce4ui
+	url = git://github.com/freddix/libxfce4ui.git
+[submodule "libxfce4util"]
+	path = libxfce4util
+	url = git://github.com/freddix/libxfce4util.git
+[submodule "libxklavier"]
+	path = libxklavier
+	url = git://github.com/freddix/libxklavier.git
+[submodule "libxml2"]
+	path = libxml2
+	url = git://github.com/freddix/libxml2.git
+[submodule "libxslt"]
+	path = libxslt
+	url = git://github.com/freddix/libxslt.git
+[submodule "libzapojit"]
+	path = libzapojit
+	url = git://github.com/freddix/libzapojit.git
+[submodule "libzeitgeist"]
+	path = libzeitgeist
+	url = git://github.com/freddix/libzeitgeist.git
+[submodule "lightspark"]
+	path = lightspark
+	url = git://github.com/freddix/lightspark.git
+[submodule "llvm"]
+	path = llvm
+	url = git://github.com/freddix/llvm.git
+[submodule "lmms"]
+	path = lmms
+	url = git://github.com/freddix/lmms.git
+[submodule "lrzip"]
+	path = lrzip
+	url = git://github.com/freddix/lrzip.git
+[submodule "lua"]
+	path = lua
+	url = git://github.com/freddix/lua.git
+[submodule "lv2"]
+	path = lv2
+	url = git://github.com/freddix/lv2.git
+[submodule "lv2-abGate"]
+	path = lv2-abGate
+	url = git://github.com/freddix/lv2-abGate.git
+[submodule "lv2-eq10q"]
+	path = lv2-eq10q
+	url = git://github.com/freddix/lv2-eq10q.git
+[submodule "lv2-fomp"]
+	path = lv2-fomp
+	url = git://github.com/freddix/lv2-fomp.git
+[submodule "lv2-invada"]
+	path = lv2-invada
+	url = git://github.com/freddix/lv2-invada.git
+[submodule "lv2-ir"]
+	path = lv2-ir
+	url = git://github.com/freddix/lv2-ir.git
+[submodule "lv2-mda"]
+	path = lv2-mda
+	url = git://github.com/freddix/lv2-mda.git
+[submodule "lv2-swh"]
+	path = lv2-swh
+	url = git://github.com/freddix/lv2-swh.git
+[submodule "lvm2"]
+	path = lvm2
+	url = git://github.com/freddix/lvm2.git
+[submodule "lzip"]
+	path = lzip
+	url = git://github.com/freddix/lzip.git
+[submodule "lzo"]
+	path = lzo
+	url = git://github.com/freddix/lzo.git
+[submodule "m4"]
+	path = m4
+	url = git://github.com/freddix/m4.git
+[submodule "make"]
+	path = make
+	url = git://github.com/freddix/make.git
+[submodule "man-db"]
+	path = man-db
+	url = git://github.com/freddix/man-db.git
+[submodule "mash"]
+	path = mash
+	url = git://github.com/freddix/mash.git
+[submodule "mawk"]
+	path = mawk
+	url = git://github.com/freddix/mawk.git
+[submodule "mc"]
+	path = mc
+	url = git://github.com/freddix/mc.git
+[submodule "meld"]
+	path = meld
+	url = git://github.com/freddix/meld.git
+[submodule "memphis"]
+	path = memphis
+	url = git://github.com/freddix/memphis.git
+[submodule "menu-cache"]
+	path = menu-cache
+	url = git://github.com/freddix/menu-cache.git
+[submodule "Mesa"]
+	path = Mesa
+	url = git://github.com/freddix/Mesa.git
+[submodule "Mesa-demos"]
+	path = Mesa-demos
+	url = git://github.com/freddix/Mesa-demos.git
+[submodule "Mesa-GLU"]
+	path = Mesa-GLU
+	url = git://github.com/freddix/Mesa-GLU.git
+[submodule "metacity"]
+	path = metacity
+	url = git://github.com/freddix/metacity.git
+[submodule "microcode-intel"]
+	path = microcode-intel
+	url = git://github.com/freddix/microcode-intel.git
+[submodule "midori"]
+	path = midori
+	url = git://github.com/freddix/midori.git
+[submodule "mjpegtools"]
+	path = mjpegtools
+	url = git://github.com/freddix/mjpegtools.git
+[submodule "mksh"]
+	path = mksh
+	url = git://github.com/freddix/mksh.git
+[submodule "mkvtoolnix"]
+	path = mkvtoolnix
+	url = git://github.com/freddix/mkvtoolnix.git
+[submodule "mlt"]
+	path = mlt
+	url = git://github.com/freddix/mlt.git
+[submodule "mm-common"]
+	path = mm-common
+	url = git://github.com/freddix/mm-common.git
+[submodule "mp4v2"]
+	path = mp4v2
+	url = git://github.com/freddix/mp4v2.git
+[submodule "mpc"]
+	path = mpc
+	url = git://github.com/freddix/mpc.git
+[submodule "mpfr"]
+	path = mpfr
+	url = git://github.com/freddix/mpfr.git
+[submodule "mpg123"]
+	path = mpg123
+	url = git://github.com/freddix/mpg123.git
+[submodule "mplayer"]
+	path = mplayer
+	url = git://github.com/freddix/mplayer.git
+[submodule "mplayer2"]
+	path = mplayer2
+	url = git://github.com/freddix/mplayer2.git
+[submodule "mtdev"]
+	path = mtdev
+	url = git://github.com/freddix/mtdev.git
+[submodule "mtools"]
+	path = mtools
+	url = git://github.com/freddix/mtools.git
+[submodule "mtpfs"]
+	path = mtpfs
+	url = git://github.com/freddix/mtpfs.git
+[submodule "mutt"]
+	path = mutt
+	url = git://github.com/freddix/mutt.git
+[submodule "mutter"]
+	path = mutter
+	url = git://github.com/freddix/mutter.git
+[submodule "mxml"]
+	path = mxml
+	url = git://github.com/freddix/mxml.git
+[submodule "mypaint"]
+	path = mypaint
+	url = git://github.com/freddix/mypaint.git
+[submodule "nasm"]
+	path = nasm
+	url = git://github.com/freddix/nasm.git
+[submodule "nautilus"]
+	path = nautilus
+	url = git://github.com/freddix/nautilus.git
+[submodule "nautilus2"]
+	path = nautilus2
+	url = git://github.com/freddix/nautilus2.git
+[submodule "nautilus-sendto"]
+	path = nautilus-sendto
+	url = git://github.com/freddix/nautilus-sendto.git
+[submodule "ncurses"]
+	path = ncurses
+	url = git://github.com/freddix/ncurses.git
+[submodule "neon"]
+	path = neon
+	url = git://github.com/freddix/neon.git
+[submodule "nettle"]
+	path = nettle
+	url = git://github.com/freddix/nettle.git
+[submodule "NetworkManager"]
+	path = NetworkManager
+	url = git://github.com/freddix/NetworkManager.git
+[submodule "NetworkManager-applet"]
+	path = NetworkManager-applet
+	url = git://github.com/freddix/NetworkManager-applet.git
+[submodule "newt"]
+	path = newt
+	url = git://github.com/freddix/newt.git
+[submodule "nilfs-utils"]
+	path = nilfs-utils
+	url = git://github.com/freddix/nilfs-utils.git
+[submodule "nitrogen"]
+	path = nitrogen
+	url = git://github.com/freddix/nitrogen.git
+[submodule "nmap"]
+	path = nmap
+	url = git://github.com/freddix/nmap.git
+[submodule "notification-daemon"]
+	path = notification-daemon
+	url = git://github.com/freddix/notification-daemon.git
+[submodule "nspr"]
+	path = nspr
+	url = git://github.com/freddix/nspr.git
+[submodule "nss"]
+	path = nss
+	url = git://github.com/freddix/nss.git
+[submodule "nss-mdns"]
+	path = nss-mdns
+	url = git://github.com/freddix/nss-mdns.git
+[submodule "nss-myhostname"]
+	path = nss-myhostname
+	url = git://github.com/freddix/nss-myhostname.git
+[submodule "ntfs-3g"]
+	path = ntfs-3g
+	url = git://github.com/freddix/ntfs-3g.git
+[submodule "obconf"]
+	path = obconf
+	url = git://github.com/freddix/obconf.git
+[submodule "obexd"]
+	path = obexd
+	url = git://github.com/freddix/obexd.git
+[submodule "obex-data-server"]
+	path = obex-data-server
+	url = git://github.com/freddix/obex-data-server.git
+[submodule "obnam"]
+	path = obnam
+	url = git://github.com/freddix/obnam.git
+[submodule "odt2txt"]
+	path = odt2txt
+	url = git://github.com/freddix/odt2txt.git
+[submodule "openal-soft"]
+	path = openal-soft
+	url = git://github.com/freddix/openal-soft.git
+[submodule "openbox"]
+	path = openbox
+	url = git://github.com/freddix/openbox.git
+[submodule "opencore-amr"]
+	path = opencore-amr
+	url = git://github.com/freddix/opencore-amr.git
+[submodule "OpenCV"]
+	path = OpenCV
+	url = git://github.com/freddix/OpenCV.git
+[submodule "OpenEXR"]
+	path = OpenEXR
+	url = git://github.com/freddix/OpenEXR.git
+[submodule "openjade"]
+	path = openjade
+	url = git://github.com/freddix/openjade.git
+[submodule "openjpeg"]
+	path = openjpeg
+	url = git://github.com/freddix/openjpeg.git
+[submodule "openldap"]
+	path = openldap
+	url = git://github.com/freddix/openldap.git
+[submodule "openobex"]
+	path = openobex
+	url = git://github.com/freddix/openobex.git
+[submodule "openshot"]
+	path = openshot
+	url = git://github.com/freddix/openshot.git
+[submodule "opensp"]
+	path = opensp
+	url = git://github.com/freddix/opensp.git
+[submodule "openssh"]
+	path = openssh
+	url = git://github.com/freddix/openssh.git
+[submodule "openssl"]
+	path = openssl
+	url = git://github.com/freddix/openssl.git
+[submodule "opus"]
+	path = opus
+	url = git://github.com/freddix/opus.git
+[submodule "orc"]
+	path = orc
+	url = git://github.com/freddix/orc.git
+[submodule "ossp-uuid"]
+	path = ossp-uuid
+	url = git://github.com/freddix/ossp-uuid.git
+[submodule "p11-kit"]
+	path = p11-kit
+	url = git://github.com/freddix/p11-kit.git
+[submodule "p7zip"]
+	path = p7zip
+	url = git://github.com/freddix/p7zip.git
+[submodule "pam"]
+	path = pam
+	url = git://github.com/freddix/pam.git
+[submodule "pango"]
+	path = pango
+	url = git://github.com/freddix/pango.git
+[submodule "pangomm"]
+	path = pangomm
+	url = git://github.com/freddix/pangomm.git
+[submodule "pangox-compat"]
+	path = pangox-compat
+	url = git://github.com/freddix/pangox-compat.git
+[submodule "parole"]
+	path = parole
+	url = git://github.com/freddix/parole.git
+[submodule "parted"]
+	path = parted
+	url = git://github.com/freddix/parted.git
+[submodule "patch"]
+	path = patch
+	url = git://github.com/freddix/patch.git
+[submodule "patchage"]
+	path = patchage
+	url = git://github.com/freddix/patchage.git
+[submodule "patchutils"]
+	path = patchutils
+	url = git://github.com/freddix/patchutils.git
+[submodule "pavucontrol"]
+	path = pavucontrol
+	url = git://github.com/freddix/pavucontrol.git
+[submodule "pciutils"]
+	path = pciutils
+	url = git://github.com/freddix/pciutils.git
+[submodule "pcmanfm"]
+	path = pcmanfm
+	url = git://github.com/freddix/pcmanfm.git
+[submodule "pcre"]
+	path = pcre
+	url = git://github.com/freddix/pcre.git
+[submodule "perl"]
+	path = perl
+	url = git://github.com/freddix/perl.git
+[submodule "perl-dirs"]
+	path = perl-dirs
+	url = git://github.com/freddix/perl-dirs.git
+[submodule "perl-Error"]
+	path = perl-Error
+	url = git://github.com/freddix/perl-Error.git
+[submodule "perl-Image-ExifTool"]
+	path = perl-Image-ExifTool
+	url = git://github.com/freddix/perl-Image-ExifTool.git
+[submodule "perl-Locale-gettext"]
+	path = perl-Locale-gettext
+	url = git://github.com/freddix/perl-Locale-gettext.git
+[submodule "perl-URI"]
+	path = perl-URI
+	url = git://github.com/freddix/perl-URI.git
+[submodule "perl-XML-Parser"]
+	path = perl-XML-Parser
+	url = git://github.com/freddix/perl-XML-Parser.git
+[submodule "pinentry"]
+	path = pinentry
+	url = git://github.com/freddix/pinentry.git
+[submodule "pixman"]
+	path = pixman
+	url = git://github.com/freddix/pixman.git
+[submodule "pkg-config"]
+	path = pkg-config
+	url = git://github.com/freddix/pkg-config.git
+[submodule "pm-utils"]
+	path = pm-utils
+	url = git://github.com/freddix/pm-utils.git
+[submodule "poldek"]
+	path = poldek
+	url = git://github.com/freddix/poldek.git
+[submodule "polkit"]
+	path = polkit
+	url = git://github.com/freddix/polkit.git
+[submodule "polkit-gnome"]
+	path = polkit-gnome
+	url = git://github.com/freddix/polkit-gnome.git
+[submodule "poppler"]
+	path = poppler
+	url = git://github.com/freddix/poppler.git
+[submodule "popt"]
+	path = popt
+	url = git://github.com/freddix/popt.git
+[submodule "powertop"]
+	path = powertop
+	url = git://github.com/freddix/powertop.git
+[submodule "ppp"]
+	path = ppp
+	url = git://github.com/freddix/ppp.git
+[submodule "prelink"]
+	path = prelink
+	url = git://github.com/freddix/prelink.git
+[submodule "procps"]
+	path = procps
+	url = git://github.com/freddix/procps.git
+[submodule "protobuf"]
+	path = protobuf
+	url = git://github.com/freddix/protobuf.git
+[submodule "psmisc"]
+	path = psmisc
+	url = git://github.com/freddix/psmisc.git
+[submodule "pth"]
+	path = pth
+	url = git://github.com/freddix/pth.git
+[submodule "pulseaudio"]
+	path = pulseaudio
+	url = git://github.com/freddix/pulseaudio.git
+[submodule "pwdutils"]
+	path = pwdutils
+	url = git://github.com/freddix/pwdutils.git
+[submodule "python"]
+	path = python
+	url = git://github.com/freddix/python.git
+[submodule "python3"]
+	path = python3
+	url = git://github.com/freddix/python3.git
+[submodule "python-cliapp"]
+	path = python-cliapp
+	url = git://github.com/freddix/python-cliapp.git
+[submodule "python-Crypto"]
+	path = python-Crypto
+	url = git://github.com/freddix/python-Crypto.git
+[submodule "python-dbus"]
+	path = python-dbus
+	url = git://github.com/freddix/python-dbus.git
+[submodule "python-gstreamer010"]
+	path = python-gstreamer010
+	url = git://github.com/freddix/python-gstreamer010.git
+[submodule "python-httplib2"]
+	path = python-httplib2
+	url = git://github.com/freddix/python-httplib2.git
+[submodule "python-isodate"]
+	path = python-isodate
+	url = git://github.com/freddix/python-isodate.git
+[submodule "python-larch"]
+	path = python-larch
+	url = git://github.com/freddix/python-larch.git
+[submodule "python-lxml"]
+	path = python-lxml
+	url = git://github.com/freddix/python-lxml.git
+[submodule "python-M2Crypto"]
+	path = python-M2Crypto
+	url = git://github.com/freddix/python-M2Crypto.git
+[submodule "python-musicbrainz2"]
+	path = python-musicbrainz2
+	url = git://github.com/freddix/python-musicbrainz2.git
+[submodule "python-numpy"]
+	path = python-numpy
+	url = git://github.com/freddix/python-numpy.git
+[submodule "python-paramiko"]
+	path = python-paramiko
+	url = git://github.com/freddix/python-paramiko.git
+[submodule "python-PIL"]
+	path = python-PIL
+	url = git://github.com/freddix/python-PIL.git
+[submodule "python-pyatspi"]
+	path = python-pyatspi
+	url = git://github.com/freddix/python-pyatspi.git
+[submodule "python-pycairo"]
+	path = python-pycairo
+	url = git://github.com/freddix/python-pycairo.git
+[submodule "python-pycdio"]
+	path = python-pycdio
+	url = git://github.com/freddix/python-pycdio.git
+[submodule "python-pygobject"]
+	path = python-pygobject
+	url = git://github.com/freddix/python-pygobject.git
+[submodule "python-pygobject3"]
+	path = python-pygobject3
+	url = git://github.com/freddix/python-pygobject3.git
+[submodule "python-pygoocanvas"]
+	path = python-pygoocanvas
+	url = git://github.com/freddix/python-pygoocanvas.git
+[submodule "python-pygtk"]
+	path = python-pygtk
+	url = git://github.com/freddix/python-pygtk.git
+[submodule "python-PyQt"]
+	path = python-PyQt
+	url = git://github.com/freddix/python-PyQt.git
+[submodule "python-Pyrex"]
+	path = python-Pyrex
+	url = git://github.com/freddix/python-Pyrex.git
+[submodule "python-pyxdg"]
+	path = python-pyxdg
+	url = git://github.com/freddix/python-pyxdg.git
+[submodule "python-PyXML"]
+	path = python-PyXML
+	url = git://github.com/freddix/python-PyXML.git
+[submodule "python-rdflib"]
+	path = python-rdflib
+	url = git://github.com/freddix/python-rdflib.git
+[submodule "python-setuptools"]
+	path = python-setuptools
+	url = git://github.com/freddix/python-setuptools.git
+[submodule "python-tracing"]
+	path = python-tracing
+	url = git://github.com/freddix/python-tracing.git
+[submodule "python-ttystatus"]
+	path = python-ttystatus
+	url = git://github.com/freddix/python-ttystatus.git
+[submodule "python-wxPython"]
+	path = python-wxPython
+	url = git://github.com/freddix/python-wxPython.git
+[submodule "qemu"]
+	path = qemu
+	url = git://github.com/freddix/qemu.git
+[submodule "qemu-kvm"]
+	path = qemu-kvm
+	url = git://github.com/freddix/qemu-kvm.git
+[submodule "qjackctl"]
+	path = qjackctl
+	url = git://github.com/freddix/qjackctl.git
+[submodule "qpdf"]
+	path = qpdf
+	url = git://github.com/freddix/qpdf.git
+[submodule "qrencode"]
+	path = qrencode
+	url = git://github.com/freddix/qrencode.git
+[submodule "qscintilla"]
+	path = qscintilla
+	url = git://github.com/freddix/qscintilla.git
+[submodule "qt"]
+	path = qt
+	url = git://github.com/freddix/qt.git
+[submodule "qtractor"]
+	path = qtractor
+	url = git://github.com/freddix/qtractor.git
+[submodule "rakarrack"]
+	path = rakarrack
+	url = git://github.com/freddix/rakarrack.git
+[submodule "raptor2"]
+	path = raptor2
+	url = git://github.com/freddix/raptor2.git
+[submodule "rarian"]
+	path = rarian
+	url = git://github.com/freddix/rarian.git
+[submodule "raul"]
+	path = raul
+	url = git://github.com/freddix/raul.git
+[submodule "rdesktop"]
+	path = rdesktop
+	url = git://github.com/freddix/rdesktop.git
+[submodule "readline"]
+	path = readline
+	url = git://github.com/freddix/readline.git
+[submodule "recode"]
+	path = recode
+	url = git://github.com/freddix/recode.git
+[submodule "rest"]
+	path = rest
+	url = git://github.com/freddix/rest.git
+[submodule "rfkill"]
+	path = rfkill
+	url = git://github.com/freddix/rfkill.git
+[submodule "rpm"]
+	path = rpm
+	url = git://github.com/freddix/rpm.git
+[submodule "rpm-build-macros"]
+	path = rpm-build-macros
+	url = git://github.com/freddix/rpm-build-macros.git
+[submodule "rtmpdump"]
+	path = rtmpdump
+	url = git://github.com/freddix/rtmpdump.git
+[submodule "rubberband"]
+	path = rubberband
+	url = git://github.com/freddix/rubberband.git
+[submodule "ruby"]
+	path = ruby
+	url = git://github.com/freddix/ruby.git
+[submodule "rygel"]
+	path = rygel
+	url = git://github.com/freddix/rygel.git
+[submodule "sane-backends"]
+	path = sane-backends
+	url = git://github.com/freddix/sane-backends.git
+[submodule "schedtool"]
+	path = schedtool
+	url = git://github.com/freddix/schedtool.git
+[submodule "scons"]
+	path = scons
+	url = git://github.com/freddix/scons.git
+[submodule "SDL"]
+	path = SDL
+	url = git://github.com/freddix/SDL.git
+[submodule "SDL_image"]
+	path = SDL_image
+	url = git://github.com/freddix/SDL_image.git
+[submodule "SDL_mixer"]
+	path = SDL_mixer
+	url = git://github.com/freddix/SDL_mixer.git
+[submodule "SDL_sound"]
+	path = SDL_sound
+	url = git://github.com/freddix/SDL_sound.git
+[submodule "SDL_ttf"]
+	path = SDL_ttf
+	url = git://github.com/freddix/SDL_ttf.git
+[submodule "seahorse"]
+	path = seahorse
+	url = git://github.com/freddix/seahorse.git
+[submodule "sed"]
+	path = sed
+	url = git://github.com/freddix/sed.git
+[submodule "sgml-common"]
+	path = sgml-common
+	url = git://github.com/freddix/sgml-common.git
+[submodule "shared-color-profiles"]
+	path = shared-color-profiles
+	url = git://github.com/freddix/shared-color-profiles.git
+[submodule "shared-color-targets"]
+	path = shared-color-targets
+	url = git://github.com/freddix/shared-color-targets.git
+[submodule "shared-mime-info"]
+	path = shared-mime-info
+	url = git://github.com/freddix/shared-mime-info.git
+[submodule "shotwell"]
+	path = shotwell
+	url = git://github.com/freddix/shotwell.git
+[submodule "simavr"]
+	path = simavr
+	url = git://github.com/freddix/simavr.git
+[submodule "simple-scan"]
+	path = simple-scan
+	url = git://github.com/freddix/simple-scan.git
+[submodule "sip"]
+	path = sip
+	url = git://github.com/freddix/sip.git
+[submodule "skype"]
+	path = skype
+	url = git://github.com/freddix/skype.git
+[submodule "slang"]
+	path = slang
+	url = git://github.com/freddix/slang.git
+[submodule "slim"]
+	path = slim
+	url = git://github.com/freddix/slim.git
+[submodule "smpeg"]
+	path = smpeg
+	url = git://github.com/freddix/smpeg.git
+[submodule "sound-juicer"]
+	path = sound-juicer
+	url = git://github.com/freddix/sound-juicer.git
+[submodule "soundtouch"]
+	path = soundtouch
+	url = git://github.com/freddix/soundtouch.git
+[submodule "source-highlight"]
+	path = source-highlight
+	url = git://github.com/freddix/source-highlight.git
+[submodule "sox"]
+	path = sox
+	url = git://github.com/freddix/sox.git
+[submodule "speex"]
+	path = speex
+	url = git://github.com/freddix/speex.git
+[submodule "sqlite3"]
+	path = sqlite3
+	url = git://github.com/freddix/sqlite3.git
+[submodule "squashfs"]
+	path = squashfs
+	url = git://github.com/freddix/squashfs.git
+[submodule "sshfs-fuse"]
+	path = sshfs-fuse
+	url = git://github.com/freddix/sshfs-fuse.git
+[submodule "startup-notification"]
+	path = startup-notification
+	url = git://github.com/freddix/startup-notification.git
+[submodule "stellarium"]
+	path = stellarium
+	url = git://github.com/freddix/stellarium.git
+[submodule "strace"]
+	path = strace
+	url = git://github.com/freddix/strace.git
+[submodule "sudo"]
+	path = sudo
+	url = git://github.com/freddix/sudo.git
+[submodule "sushi"]
+	path = sushi
+	url = git://github.com/freddix/sushi.git
+[submodule "swig"]
+	path = swig
+	url = git://github.com/freddix/swig.git
+[submodule "syncevolution"]
+	path = syncevolution
+	url = git://github.com/freddix/syncevolution.git
+[submodule "syslinux"]
+	path = syslinux
+	url = git://github.com/freddix/syslinux.git
+[submodule "systemd"]
+	path = systemd
+	url = git://github.com/freddix/systemd.git
+[submodule "t1lib"]
+	path = t1lib
+	url = git://github.com/freddix/t1lib.git
+[submodule "taglib"]
+	path = taglib
+	url = git://github.com/freddix/taglib.git
+[submodule "talloc"]
+	path = talloc
+	url = git://github.com/freddix/talloc.git
+[submodule "tar"]
+	path = tar
+	url = git://github.com/freddix/tar.git
+[submodule "tcl"]
+	path = tcl
+	url = git://github.com/freddix/tcl.git
+[submodule "telepathy-farstream"]
+	path = telepathy-farstream
+	url = git://github.com/freddix/telepathy-farstream.git
+[submodule "telepathy-gabble"]
+	path = telepathy-gabble
+	url = git://github.com/freddix/telepathy-gabble.git
+[submodule "telepathy-glib"]
+	path = telepathy-glib
+	url = git://github.com/freddix/telepathy-glib.git
+[submodule "telepathy-logger"]
+	path = telepathy-logger
+	url = git://github.com/freddix/telepathy-logger.git
+[submodule "telepathy-mission-control"]
+	path = telepathy-mission-control
+	url = git://github.com/freddix/telepathy-mission-control.git
+[submodule "telepathy-salut"]
+	path = telepathy-salut
+	url = git://github.com/freddix/telepathy-salut.git
+[submodule "Terminal"]
+	path = Terminal
+	url = git://github.com/freddix/Terminal.git
+[submodule "terminus-font"]
+	path = terminus-font
+	url = git://github.com/freddix/terminus-font.git
+[submodule "tesseract"]
+	path = tesseract
+	url = git://github.com/freddix/tesseract.git
+[submodule "testdisk"]
+	path = testdisk
+	url = git://github.com/freddix/testdisk.git
+[submodule "texinfo"]
+	path = texinfo
+	url = git://github.com/freddix/texinfo.git
+[submodule "Thunar"]
+	path = Thunar
+	url = git://github.com/freddix/Thunar.git
+[submodule "thunar-plugin-media-tags"]
+	path = thunar-plugin-media-tags
+	url = git://github.com/freddix/thunar-plugin-media-tags.git
+[submodule "thunar-plugin-volman"]
+	path = thunar-plugin-volman
+	url = git://github.com/freddix/thunar-plugin-volman.git
+[submodule "thunderbird"]
+	path = thunderbird
+	url = git://github.com/freddix/thunderbird.git
+[submodule "tig"]
+	path = tig
+	url = git://github.com/freddix/tig.git
+[submodule "totem"]
+	path = totem
+	url = git://github.com/freddix/totem.git
+[submodule "totem-pl-parser"]
+	path = totem-pl-parser
+	url = git://github.com/freddix/totem-pl-parser.git
+[submodule "tracker"]
+	path = tracker
+	url = git://github.com/freddix/tracker.git
+[submodule "transmission"]
+	path = transmission
+	url = git://github.com/freddix/transmission.git
+[submodule "tree"]
+	path = tree
+	url = git://github.com/freddix/tree.git
+[submodule "tumbler"]
+	path = tumbler
+	url = git://github.com/freddix/tumbler.git
+[submodule "tzdata"]
+	path = tzdata
+	url = git://github.com/freddix/tzdata.git
+[submodule "udisks2"]
+	path = udisks2
+	url = git://github.com/freddix/udisks2.git
+[submodule "unrar"]
+	path = unrar
+	url = git://github.com/freddix/unrar.git
+[submodule "unzip"]
+	path = unzip
+	url = git://github.com/freddix/unzip.git
+[submodule "upower"]
+	path = upower
+	url = git://github.com/freddix/upower.git
+[submodule "urxvt"]
+	path = urxvt
+	url = git://github.com/freddix/urxvt.git
+[submodule "usbutils"]
+	path = usbutils
+	url = git://github.com/freddix/usbutils.git
+[submodule "user-session-units"]
+	path = user-session-units
+	url = git://github.com/freddix/user-session-units.git
+[submodule "util-linux"]
+	path = util-linux
+	url = git://github.com/freddix/util-linux.git
+[submodule "vala"]
+	path = vala
+	url = git://github.com/freddix/vala.git
+[submodule "valgrind"]
+	path = valgrind
+	url = git://github.com/freddix/valgrind.git
+[submodule "vamp-plugin-sdk"]
+	path = vamp-plugin-sdk
+	url = git://github.com/freddix/vamp-plugin-sdk.git
+[submodule "veeone-drumk"]
+	path = veeone-drumk
+	url = git://github.com/freddix/veeone-drumk.git
+[submodule "veeone-sampl"]
+	path = veeone-sampl
+	url = git://github.com/freddix/veeone-sampl.git
+[submodule "veeone-synth"]
+	path = veeone-synth
+	url = git://github.com/freddix/veeone-synth.git
+[submodule "viewnior"]
+	path = viewnior
+	url = git://github.com/freddix/viewnior.git
+[submodule "vim"]
+	path = vim
+	url = git://github.com/freddix/vim.git
+[submodule "vim-syntax-spec"]
+	path = vim-syntax-spec
+	url = git://github.com/freddix/vim-syntax-spec.git
+[submodule "vmpk"]
+	path = vmpk
+	url = git://github.com/freddix/vmpk.git
+[submodule "vo-aacenc"]
+	path = vo-aacenc
+	url = git://github.com/freddix/vo-aacenc.git
+[submodule "volumeicon"]
+	path = volumeicon
+	url = git://github.com/freddix/volumeicon.git
+[submodule "vorbis-tools"]
+	path = vorbis-tools
+	url = git://github.com/freddix/vorbis-tools.git
+[submodule "vsftpd"]
+	path = vsftpd
+	url = git://github.com/freddix/vsftpd.git
+[submodule "vte"]
+	path = vte
+	url = git://github.com/freddix/vte.git
+[submodule "vte2"]
+	path = vte2
+	url = git://github.com/freddix/vte2.git
+[submodule "w3m"]
+	path = w3m
+	url = git://github.com/freddix/w3m.git
+[submodule "wammu"]
+	path = wammu
+	url = git://github.com/freddix/wammu.git
+[submodule "webrtc-audio-processing"]
+	path = webrtc-audio-processing
+	url = git://github.com/freddix/webrtc-audio-processing.git
+[submodule "wget"]
+	path = wget
+	url = git://github.com/freddix/wget.git
+[submodule "which"]
+	path = which
+	url = git://github.com/freddix/which.git
+[submodule "wine"]
+	path = wine
+	url = git://github.com/freddix/wine.git
+[submodule "wireless-regdb"]
+	path = wireless-regdb
+	url = git://github.com/freddix/wireless-regdb.git
+[submodule "wireless-tools"]
+	path = wireless-tools
+	url = git://github.com/freddix/wireless-tools.git
+[submodule "wmctrl"]
+	path = wmctrl
+	url = git://github.com/freddix/wmctrl.git
+[submodule "wpa_supplicant"]
+	path = wpa_supplicant
+	url = git://github.com/freddix/wpa_supplicant.git
+[submodule "wxWidgets"]
+	path = wxWidgets
+	url = git://github.com/freddix/wxWidgets.git
+[submodule "xapian-core"]
+	path = xapian-core
+	url = git://github.com/freddix/xapian-core.git
+[submodule "xcb-util"]
+	path = xcb-util
+	url = git://github.com/freddix/xcb-util.git
+[submodule "xcb-util-image"]
+	path = xcb-util-image
+	url = git://github.com/freddix/xcb-util-image.git
+[submodule "xcb-util-keysyms"]
+	path = xcb-util-keysyms
+	url = git://github.com/freddix/xcb-util-keysyms.git
+[submodule "xcb-util-renderutil"]
+	path = xcb-util-renderutil
+	url = git://github.com/freddix/xcb-util-renderutil.git
+[submodule "xcb-util-wm"]
+	path = xcb-util-wm
+	url = git://github.com/freddix/xcb-util-wm.git
+[submodule "xdg-utils"]
+	path = xdg-utils
+	url = git://github.com/freddix/xdg-utils.git
+[submodule "xdotool"]
+	path = xdotool
+	url = git://github.com/freddix/xdotool.git
+[submodule "xfce"]
+	path = xfce
+	url = git://github.com/freddix/xfce.git
+[submodule "xfce4-appfinder"]
+	path = xfce4-appfinder
+	url = git://github.com/freddix/xfce4-appfinder.git
+[submodule "xfce4-dev-tools"]
+	path = xfce4-dev-tools
+	url = git://github.com/freddix/xfce4-dev-tools.git
+[submodule "xfce4-notifyd"]
+	path = xfce4-notifyd
+	url = git://github.com/freddix/xfce4-notifyd.git
+[submodule "xfce4-panel"]
+	path = xfce4-panel
+	url = git://github.com/freddix/xfce4-panel.git
+[submodule "xfce4-plugin-cpugraph"]
+	path = xfce4-plugin-cpugraph
+	url = git://github.com/freddix/xfce4-plugin-cpugraph.git
+[submodule "xfce4-plugin-datetime"]
+	path = xfce4-plugin-datetime
+	url = git://github.com/freddix/xfce4-plugin-datetime.git
+[submodule "xfce4-plugin-mailwatch"]
+	path = xfce4-plugin-mailwatch
+	url = git://github.com/freddix/xfce4-plugin-mailwatch.git
+[submodule "xfce4-plugin-mount"]
+	path = xfce4-plugin-mount
+	url = git://github.com/freddix/xfce4-plugin-mount.git
+[submodule "xfce4-plugin-notes"]
+	path = xfce4-plugin-notes
+	url = git://github.com/freddix/xfce4-plugin-notes.git
+[submodule "xfce4-plugin-places"]
+	path = xfce4-plugin-places
+	url = git://github.com/freddix/xfce4-plugin-places.git
+[submodule "xfce4-plugin-weather"]
+	path = xfce4-plugin-weather
+	url = git://github.com/freddix/xfce4-plugin-weather.git
+[submodule "xfce4-plugin-xkb"]
+	path = xfce4-plugin-xkb
+	url = git://github.com/freddix/xfce4-plugin-xkb.git
+[submodule "xfce4-power-manager"]
+	path = xfce4-power-manager
+	url = git://github.com/freddix/xfce4-power-manager.git
+[submodule "xfce4-screenshooter"]
+	path = xfce4-screenshooter
+	url = git://github.com/freddix/xfce4-screenshooter.git
+[submodule "xfce4-session"]
+	path = xfce4-session
+	url = git://github.com/freddix/xfce4-session.git
+[submodule "xfce4-settings"]
+	path = xfce4-settings
+	url = git://github.com/freddix/xfce4-settings.git
+[submodule "xfce4-taskmanager"]
+	path = xfce4-taskmanager
+	url = git://github.com/freddix/xfce4-taskmanager.git
+[submodule "xfconf"]
+	path = xfconf
+	url = git://github.com/freddix/xfconf.git
+[submodule "xfdesktop"]
+	path = xfdesktop
+	url = git://github.com/freddix/xfdesktop.git
+[submodule "xfsprogs"]
+	path = xfsprogs
+	url = git://github.com/freddix/xfsprogs.git
+[submodule "xfwm4"]
+	path = xfwm4
+	url = git://github.com/freddix/xfwm4.git
+[submodule "xkeyboard-config"]
+	path = xkeyboard-config
+	url = git://github.com/freddix/xkeyboard-config.git
+[submodule "xmlto"]
+	path = xmlto
+	url = git://github.com/freddix/xmlto.git
+[submodule "xmltoman"]
+	path = xmltoman
+	url = git://github.com/freddix/xmltoman.git
+[submodule "xorg-app-bdftopcf"]
+	path = xorg-app-bdftopcf
+	url = git://github.com/freddix/xorg-app-bdftopcf.git
+[submodule "xorg-app-iceauth"]
+	path = xorg-app-iceauth
+	url = git://github.com/freddix/xorg-app-iceauth.git
+[submodule "xorg-app-intel-gpu-tools"]
+	path = xorg-app-intel-gpu-tools
+	url = git://github.com/freddix/xorg-app-intel-gpu-tools.git
+[submodule "xorg-app-mkfontdir"]
+	path = xorg-app-mkfontdir
+	url = git://github.com/freddix/xorg-app-mkfontdir.git
+[submodule "xorg-app-mkfontscale"]
+	path = xorg-app-mkfontscale
+	url = git://github.com/freddix/xorg-app-mkfontscale.git
+[submodule "xorg-app-rgb"]
+	path = xorg-app-rgb
+	url = git://github.com/freddix/xorg-app-rgb.git
+[submodule "xorg-app-sessreg"]
+	path = xorg-app-sessreg
+	url = git://github.com/freddix/xorg-app-sessreg.git
+[submodule "xorg-app-setxkbmap"]
+	path = xorg-app-setxkbmap
+	url = git://github.com/freddix/xorg-app-setxkbmap.git
+[submodule "xorg-app-x11perf"]
+	path = xorg-app-x11perf
+	url = git://github.com/freddix/xorg-app-x11perf.git
+[submodule "xorg-app-xauth"]
+	path = xorg-app-xauth
+	url = git://github.com/freddix/xorg-app-xauth.git
+[submodule "xorg-app-xcompmgr"]
+	path = xorg-app-xcompmgr
+	url = git://github.com/freddix/xorg-app-xcompmgr.git
+[submodule "xorg-app-xdriinfo"]
+	path = xorg-app-xdriinfo
+	url = git://github.com/freddix/xorg-app-xdriinfo.git
+[submodule "xorg-app-xev"]
+	path = xorg-app-xev
+	url = git://github.com/freddix/xorg-app-xev.git
+[submodule "xorg-app-xfontsel"]
+	path = xorg-app-xfontsel
+	url = git://github.com/freddix/xorg-app-xfontsel.git
+[submodule "xorg-app-xhost"]
+	path = xorg-app-xhost
+	url = git://github.com/freddix/xorg-app-xhost.git
+[submodule "xorg-app-xinit"]
+	path = xorg-app-xinit
+	url = git://github.com/freddix/xorg-app-xinit.git
+[submodule "xorg-app-xinput"]
+	path = xorg-app-xinput
+	url = git://github.com/freddix/xorg-app-xinput.git
+[submodule "xorg-app-xkbcomp"]
+	path = xorg-app-xkbcomp
+	url = git://github.com/freddix/xorg-app-xkbcomp.git
+[submodule "xorg-app-xmodmap"]
+	path = xorg-app-xmodmap
+	url = git://github.com/freddix/xorg-app-xmodmap.git
+[submodule "xorg-app-xprop"]
+	path = xorg-app-xprop
+	url = git://github.com/freddix/xorg-app-xprop.git
+[submodule "xorg-app-xrandr"]
+	path = xorg-app-xrandr
+	url = git://github.com/freddix/xorg-app-xrandr.git
+[submodule "xorg-app-xrdb"]
+	path = xorg-app-xrdb
+	url = git://github.com/freddix/xorg-app-xrdb.git
+[submodule "xorg-app-xrefresh"]
+	path = xorg-app-xrefresh
+	url = git://github.com/freddix/xorg-app-xrefresh.git
+[submodule "xorg-app-xrenderbenchmark"]
+	path = xorg-app-xrenderbenchmark
+	url = git://github.com/freddix/xorg-app-xrenderbenchmark.git
+[submodule "xorg-app-xset"]
+	path = xorg-app-xset
+	url = git://github.com/freddix/xorg-app-xset.git
+[submodule "xorg-app-xsetroot"]
+	path = xorg-app-xsetroot
+	url = git://github.com/freddix/xorg-app-xsetroot.git
+[submodule "xorg-app-xvinfo"]
+	path = xorg-app-xvinfo
+	url = git://github.com/freddix/xorg-app-xvinfo.git
+[submodule "xorg-app-xwininfo"]
+	path = xorg-app-xwininfo
+	url = git://github.com/freddix/xorg-app-xwininfo.git
+[submodule "xorg-data-xbitmaps"]
+	path = xorg-data-xbitmaps
+	url = git://github.com/freddix/xorg-data-xbitmaps.git
+[submodule "xorg-driver-input-evdev"]
+	path = xorg-driver-input-evdev
+	url = git://github.com/freddix/xorg-driver-input-evdev.git
+[submodule "xorg-driver-input-joystick"]
+	path = xorg-driver-input-joystick
+	url = git://github.com/freddix/xorg-driver-input-joystick.git
+[submodule "xorg-driver-input-synaptics"]
+	path = xorg-driver-input-synaptics
+	url = git://github.com/freddix/xorg-driver-input-synaptics.git
+[submodule "xorg-driver-input-vmmouse"]
+	path = xorg-driver-input-vmmouse
+	url = git://github.com/freddix/xorg-driver-input-vmmouse.git
+[submodule "xorg-driver-input-wacom"]
+	path = xorg-driver-input-wacom
+	url = git://github.com/freddix/xorg-driver-input-wacom.git
+[submodule "xorg-driver-video-intel"]
+	path = xorg-driver-video-intel
+	url = git://github.com/freddix/xorg-driver-video-intel.git
+[submodule "xorg-driver-video-modesetting"]
+	path = xorg-driver-video-modesetting
+	url = git://github.com/freddix/xorg-driver-video-modesetting.git
+[submodule "xorg-driver-video-qxl"]
+	path = xorg-driver-video-qxl
+	url = git://github.com/freddix/xorg-driver-video-qxl.git
+[submodule "xorg-driver-video-vesa"]
+	path = xorg-driver-video-vesa
+	url = git://github.com/freddix/xorg-driver-video-vesa.git
+[submodule "xorg-driver-video-vmware"]
+	path = xorg-driver-video-vmware
+	url = git://github.com/freddix/xorg-driver-video-vmware.git
+[submodule "xorg-font-alias"]
+	path = xorg-font-alias
+	url = git://github.com/freddix/xorg-font-alias.git
+[submodule "xorg-font-cursor-misc"]
+	path = xorg-font-cursor-misc
+	url = git://github.com/freddix/xorg-font-cursor-misc.git
+[submodule "xorg-font-misc"]
+	path = xorg-font-misc
+	url = git://github.com/freddix/xorg-font-misc.git
+[submodule "xorg-font-util"]
+	path = xorg-font-util
+	url = git://github.com/freddix/xorg-font-util.git
+[submodule "xorg-launch-helper"]
+	path = xorg-launch-helper
+	url = git://github.com/freddix/xorg-launch-helper.git
+[submodule "xorg-libfontenc"]
+	path = xorg-libfontenc
+	url = git://github.com/freddix/xorg-libfontenc.git
+[submodule "xorg-libFS"]
+	path = xorg-libFS
+	url = git://github.com/freddix/xorg-libFS.git
+[submodule "xorg-libICE"]
+	path = xorg-libICE
+	url = git://github.com/freddix/xorg-libICE.git
+[submodule "xorg-libSM"]
+	path = xorg-libSM
+	url = git://github.com/freddix/xorg-libSM.git
+[submodule "xorg-libX11"]
+	path = xorg-libX11
+	url = git://github.com/freddix/xorg-libX11.git
+[submodule "xorg-libXau"]
+	path = xorg-libXau
+	url = git://github.com/freddix/xorg-libXau.git
+[submodule "xorg-libXaw"]
+	path = xorg-libXaw
+	url = git://github.com/freddix/xorg-libXaw.git
+[submodule "xorg-libXcomposite"]
+	path = xorg-libXcomposite
+	url = git://github.com/freddix/xorg-libXcomposite.git
+[submodule "xorg-libXcursor"]
+	path = xorg-libXcursor
+	url = git://github.com/freddix/xorg-libXcursor.git
+[submodule "xorg-libXdamage"]
+	path = xorg-libXdamage
+	url = git://github.com/freddix/xorg-libXdamage.git
+[submodule "xorg-libXdmcp"]
+	path = xorg-libXdmcp
+	url = git://github.com/freddix/xorg-libXdmcp.git
+[submodule "xorg-libXevie"]
+	path = xorg-libXevie
+	url = git://github.com/freddix/xorg-libXevie.git
+[submodule "xorg-libXext"]
+	path = xorg-libXext
+	url = git://github.com/freddix/xorg-libXext.git
+[submodule "xorg-libXfixes"]
+	path = xorg-libXfixes
+	url = git://github.com/freddix/xorg-libXfixes.git
+[submodule "xorg-libXfont"]
+	path = xorg-libXfont
+	url = git://github.com/freddix/xorg-libXfont.git
+[submodule "xorg-libXft"]
+	path = xorg-libXft
+	url = git://github.com/freddix/xorg-libXft.git
+[submodule "xorg-libXi"]
+	path = xorg-libXi
+	url = git://github.com/freddix/xorg-libXi.git
+[submodule "xorg-libXinerama"]
+	path = xorg-libXinerama
+	url = git://github.com/freddix/xorg-libXinerama.git
+[submodule "xorg-libxkbfile"]
+	path = xorg-libxkbfile
+	url = git://github.com/freddix/xorg-libxkbfile.git
+[submodule "xorg-libxkbui"]
+	path = xorg-libxkbui
+	url = git://github.com/freddix/xorg-libxkbui.git
+[submodule "xorg-libXmu"]
+	path = xorg-libXmu
+	url = git://github.com/freddix/xorg-libXmu.git
+[submodule "xorg-libXp"]
+	path = xorg-libXp
+	url = git://github.com/freddix/xorg-libXp.git
+[submodule "xorg-libXpm"]
+	path = xorg-libXpm
+	url = git://github.com/freddix/xorg-libXpm.git
+[submodule "xorg-libXrandr"]
+	path = xorg-libXrandr
+	url = git://github.com/freddix/xorg-libXrandr.git
+[submodule "xorg-libXrender"]
+	path = xorg-libXrender
+	url = git://github.com/freddix/xorg-libXrender.git
+[submodule "xorg-libXres"]
+	path = xorg-libXres
+	url = git://github.com/freddix/xorg-libXres.git
+[submodule "xorg-libXScrnSaver"]
+	path = xorg-libXScrnSaver
+	url = git://github.com/freddix/xorg-libXScrnSaver.git
+[submodule "xorg-libXt"]
+	path = xorg-libXt
+	url = git://github.com/freddix/xorg-libXt.git
+[submodule "xorg-libXtst"]
+	path = xorg-libXtst
+	url = git://github.com/freddix/xorg-libXtst.git
+[submodule "xorg-libXv"]
+	path = xorg-libXv
+	url = git://github.com/freddix/xorg-libXv.git
+[submodule "xorg-libXvMC"]
+	path = xorg-libXvMC
+	url = git://github.com/freddix/xorg-libXvMC.git
+[submodule "xorg-libXxf86dga"]
+	path = xorg-libXxf86dga
+	url = git://github.com/freddix/xorg-libXxf86dga.git
+[submodule "xorg-libXxf86misc"]
+	path = xorg-libXxf86misc
+	url = git://github.com/freddix/xorg-libXxf86misc.git
+[submodule "xorg-libXxf86vm"]
+	path = xorg-libXxf86vm
+	url = git://github.com/freddix/xorg-libXxf86vm.git
+[submodule "xorg-proto"]
+	path = xorg-proto
+	url = git://github.com/freddix/xorg-proto.git
+[submodule "xorg-theme-xcursor-OpenZone"]
+	path = xorg-theme-xcursor-OpenZone
+	url = git://github.com/freddix/xorg-theme-xcursor-OpenZone.git
+[submodule "xorg-util-macros"]
+	path = xorg-util-macros
+	url = git://github.com/freddix/xorg-util-macros.git
+[submodule "xorg-util-makedepend"]
+	path = xorg-util-makedepend
+	url = git://github.com/freddix/xorg-util-makedepend.git
+[submodule "xorg-xserver-server"]
+	path = xorg-xserver-server
+	url = git://github.com/freddix/xorg-xserver-server.git
+[submodule "xorg-xtrans"]
+	path = xorg-xtrans
+	url = git://github.com/freddix/xorg-xtrans.git
+[submodule "xsane"]
+	path = xsane
+	url = git://github.com/freddix/xsane.git
+[submodule "xulrunner"]
+	path = xulrunner
+	url = git://github.com/freddix/xulrunner.git
+[submodule "xvidcore"]
+	path = xvidcore
+	url = git://github.com/freddix/xvidcore.git
+[submodule "xz"]
+	path = xz
+	url = git://github.com/freddix/xz.git
+[submodule "yajl"]
+	path = yajl
+	url = git://github.com/freddix/yajl.git
+[submodule "yasm"]
+	path = yasm
+	url = git://github.com/freddix/yasm.git
+[submodule "yelp"]
+	path = yelp
+	url = git://github.com/freddix/yelp.git
+[submodule "yelp-tools"]
+	path = yelp-tools
+	url = git://github.com/freddix/yelp-tools.git
+[submodule "yelp-xsl"]
+	path = yelp-xsl
+	url = git://github.com/freddix/yelp-xsl.git
+[submodule "yoshimi"]
+	path = yoshimi
+	url = git://github.com/freddix/yoshimi.git
+[submodule "youtube-dl"]
+	path = youtube-dl
+	url = git://github.com/freddix/youtube-dl.git
+[submodule "zeitgeist"]
+	path = zeitgeist
+	url = git://github.com/freddix/zeitgeist.git
+[submodule "zeitgeist-datahub"]
+	path = zeitgeist-datahub
+	url = git://github.com/freddix/zeitgeist-datahub.git
+[submodule "zip"]
+	path = zip
+	url = git://github.com/freddix/zip.git
+[submodule "zita-ajbridge"]
+	path = zita-ajbridge
+	url = git://github.com/freddix/zita-ajbridge.git
+[submodule "zita-alsa-pcmi"]
+	path = zita-alsa-pcmi
+	url = git://github.com/freddix/zita-alsa-pcmi.git
+[submodule "zita-at1"]
+	path = zita-at1
+	url = git://github.com/freddix/zita-at1.git
+[submodule "zita-convolver"]
+	path = zita-convolver
+	url = git://github.com/freddix/zita-convolver.git
+[submodule "zita-dpl1"]
+	path = zita-dpl1
+	url = git://github.com/freddix/zita-dpl1.git
+[submodule "zita-resampler"]
+	path = zita-resampler
+	url = git://github.com/freddix/zita-resampler.git
+[submodule "zita-rev1"]
+	path = zita-rev1
+	url = git://github.com/freddix/zita-rev1.git
+[submodule "zlib"]
+	path = zlib
+	url = git://github.com/freddix/zlib.git
+[submodule "zramswap"]
+	path = zramswap
+	url = git://github.com/freddix/zramswap.git
+[submodule "zsh"]
+	path = zsh
+	url = git://github.com/freddix/zsh.git
