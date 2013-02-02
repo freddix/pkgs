@@ -2824,3 +2824,6 @@
 [submodule "dropbox"]
 	path = dropbox
 	url = git://github.com/freddix/dropbox.git
+[submodule "morituri"]
+	path = morituri
+	url = git://github.com/freddix/morituri.git
