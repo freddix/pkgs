@@ -2788,3 +2788,36 @@
 [submodule "zsh"]
 	path = zsh
 	url = git://github.com/freddix/zsh.git
+[submodule "dbus-c--"]
+	path = dbus-c--
+	url = git://github.com/freddix/dbus-c--.git
+[submodule "gimp-plugin-separate-"]
+	path = gimp-plugin-separate-
+	url = git://github.com/freddix/gimp-plugin-separate-.git
+[submodule "gtk-"]
+	path = gtk-
+	url = git://github.com/freddix/gtk-.git
+[submodule "gtk-3"]
+	path = gtk-3
+	url = git://github.com/freddix/gtk-3.git
+[submodule "gtk-3-theme-engine-unico"]
+	path = gtk-3-theme-engine-unico
+	url = git://github.com/freddix/gtk-3-theme-engine-unico.git
+[submodule "gtk-3-webkit"]
+	path = gtk-3-webkit
+	url = git://github.com/freddix/gtk-3-webkit.git
+[submodule "gtk--engines"]
+	path = gtk--engines
+	url = git://github.com/freddix/gtk--engines.git
+[submodule "gtk--theme-engine-murrine"]
+	path = gtk--theme-engine-murrine
+	url = git://github.com/freddix/gtk--theme-engine-murrine.git
+[submodule "gtk--webkit"]
+	path = gtk--webkit
+	url = git://github.com/freddix/gtk--webkit.git
+[submodule "libsigc--"]
+	path = libsigc--
+	url = git://github.com/freddix/libsigc--.git
+[submodule "libxml--"]
+	path = libxml--
+	url = git://github.com/freddix/libxml--.git
