@@ -2821,3 +2821,6 @@
 [submodule "libxml--"]
 	path = libxml--
 	url = git://github.com/freddix/libxml--.git
+[submodule "dropbox"]
+	path = dropbox
+	url = git://github.com/freddix/dropbox.git
